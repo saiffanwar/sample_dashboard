@@ -1,0 +1,13 @@
+body {
+    background-color: #e1dff7;  /* Soft violet background, similar to the image */
+    font-family: 'Inter', sans-serif;  /* Optional: modern font */
+    margin: 0;
+    padding: 0;
+}
+
+.dashboard-card {
+  background: linear-gradient(to bottom, #e6dfff, #b8aef0); /* light to medium purple */
+  border-radius: 16px; /* smooth rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* soft drop shadow */
+  padding: 20px; /* space inside the card */
+}

@@ -1,0 +1,2201 @@
+Date,Price,Income/Expense,Category
+2020-01-01,242.37,Income,Service Revenue
+2020-01-01,5599.42,Income,Investment Return
+2020-01-02,314.35,Expense,Marketing
+2020-01-02,1691.7,Expense,Office Supplies
+2020-01-02,265.09,Income,Service Revenue
+2020-01-02,347.34,Income,Grants
+2020-01-02,2546.8,Expense,Utilities
+2020-01-03,1400.98,Income,Service Revenue
+2020-01-03,1989.18,Expense,Office Supplies
+2020-01-04,3403.24,Income,Investment Return
+2020-01-04,9394.88,Income,Grants
+2020-01-05,4874.51,Income,Investment Return
+2020-01-05,705.4,Expense,Marketing
+2020-01-06,287.83,Expense,Utilities
+2020-01-07,4550.52,Expense,Travel
+2020-01-07,4195.23,Expense,Marketing
+2020-01-07,2973.42,Expense,Rent
+2020-01-08,1521.29,Expense,Marketing
+2020-01-09,1183.96,Income,Product Sales
+2020-01-09,2618.98,Expense,Utilities
+2020-01-10,7424.69,Income,Product Sales
+2020-01-10,2204.46,Expense,Office Supplies
+2020-01-10,4651.08,Expense,Travel
+2020-01-11,7185.79,Income,Investment Return
+2020-01-11,1153.48,Income,Investment Return
+2020-01-11,3583.66,Income,Investment Return
+2020-01-11,2341.94,Expense,Rent
+2020-01-12,4719.0,Expense,Office Supplies
+2020-01-12,8223.86,Income,Grants
+2020-01-12,4412.24,Expense,Salaries
+2020-01-12,4530.28,Income,Investment Return
+2020-01-13,1446.64,Expense,Utilities
+2020-01-14,5627.69,Income,Product Sales
+2020-01-14,405.51,Expense,Marketing
+2020-01-14,4203.29,Expense,Utilities
+2020-01-15,4806.32,Income,Product Sales
+2020-01-15,6142.74,Income,Investment Return
+2020-01-16,4480.72,Expense,Office Supplies
+2020-01-17,4095.9,Income,Investment Return
+2020-01-17,323.43,Expense,Salaries
+2020-01-17,2743.47,Expense,Office Supplies
+2020-01-18,3883.12,Income,Investment Return
+2020-01-18,1392.17,Expense,Office Supplies
+2020-01-19,3366.66,Expense,Office Supplies
+2020-01-19,4499.57,Expense,Rent
+2020-01-19,1543.36,Expense,Travel
+2020-01-20,3620.9,Expense,Office Supplies
+2020-01-21,2659.25,Expense,Rent
+2020-01-21,4905.87,Expense,Utilities
+2020-01-21,2076.33,Income,Service Revenue
+2020-01-21,2195.05,Expense,Office Supplies
+2020-01-21,1044.0,Expense,Office Supplies
+2020-01-21,1459.3,Income,Grants
+2020-01-22,491.51,Expense,Travel
+2020-01-22,5300.06,Income,Product Sales
+2020-01-22,3453.3,Expense,Utilities
+2020-01-22,444.64,Expense,Rent
+2020-01-23,3890.54,Income,Grants
+2020-01-23,9414.71,Income,Service Revenue
+2020-01-23,6039.68,Income,Service Revenue
+2020-01-24,7561.83,Income,Investment Return
+2020-01-25,2447.28,Expense,Marketing
+2020-01-25,819.76,Expense,Travel
+2020-01-25,2732.09,Expense,Travel
+2020-01-27,2375.68,Expense,Travel
+2020-01-27,2020.45,Expense,Marketing
+2020-01-28,639.67,Income,Grants
+2020-01-28,1842.18,Expense,Rent
+2020-01-28,1574.72,Expense,Utilities
+2020-01-28,3573.99,Expense,Travel
+2020-01-29,4655.5,Expense,Rent
+2020-01-29,7275.39,Income,Product Sales
+2020-01-29,1350.38,Expense,Office Supplies
+2020-01-29,3789.5,Expense,Office Supplies
+2020-01-29,2436.37,Income,Service Revenue
+2020-01-29,2262.18,Expense,Utilities
+2020-02-01,1722.49,Expense,Utilities
+2020-02-03,7569.92,Income,Investment Return
+2020-02-03,1119.15,Expense,Utilities
+2020-02-03,5875.87,Income,Grants
+2020-02-04,7853.83,Income,Investment Return
+2020-02-04,1588.75,Expense,Marketing
+2020-02-04,3113.71,Expense,Travel
+2020-02-05,8334.07,Income,Investment Return
+2020-02-05,8332.25,Income,Grants
+2020-02-05,4138.58,Income,Service Revenue
+2020-02-06,3110.83,Income,Investment Return
+2020-02-06,8675.65,Income,Grants
+2020-02-06,4082.01,Income,Investment Return
+2020-02-07,3647.54,Expense,Travel
+2020-02-07,3617.61,Expense,Office Supplies
+2020-02-07,1138.52,Expense,Utilities
+2020-02-08,1143.51,Income,Investment Return
+2020-02-08,685.0,Expense,Office Supplies
+2020-02-08,6713.23,Income,Grants
+2020-02-08,1675.67,Income,Grants
+2020-02-09,3229.54,Expense,Marketing
+2020-02-09,986.7,Income,Product Sales
+2020-02-10,3326.23,Income,Service Revenue
+2020-02-10,1337.07,Expense,Salaries
+2020-02-10,3639.85,Expense,Utilities
+2020-02-11,401.12,Income,Grants
+2020-02-11,99.28,Expense,Rent
+2020-02-11,3930.25,Expense,Marketing
+2020-02-12,1152.03,Income,Product Sales
+2020-02-12,5687.51,Income,Grants
+2020-02-12,3290.94,Expense,Marketing
+2020-02-12,3328.41,Expense,Marketing
+2020-02-12,4414.4,Expense,Marketing
+2020-02-16,4221.0,Income,Grants
+2020-02-16,7851.7,Income,Product Sales
+2020-02-16,3438.84,Expense,Marketing
+2020-02-16,2371.69,Expense,Marketing
+2020-02-16,3494.11,Income,Product Sales
+2020-02-17,1426.19,Expense,Salaries
+2020-02-18,2915.64,Expense,Salaries
+2020-02-19,643.65,Expense,Office Supplies
+2020-02-19,2527.5,Expense,Utilities
+2020-02-20,4018.85,Expense,Travel
+2020-02-20,1861.05,Income,Investment Return
+2020-02-20,1481.8,Expense,Salaries
+2020-02-20,5220.37,Income,Product Sales
+2020-02-22,2141.47,Expense,Salaries
+2020-02-23,7884.68,Income,Investment Return
+2020-02-23,6557.52,Income,Product Sales
+2020-02-24,7682.1,Income,Service Revenue
+2020-02-24,1091.47,Expense,Marketing
+2020-02-24,2450.83,Expense,Office Supplies
+2020-02-24,242.29,Income,Grants
+2020-02-25,39.11,Expense,Travel
+2020-02-27,8155.73,Income,Service Revenue
+2020-02-27,4590.85,Expense,Travel
+2020-02-28,3756.65,Expense,Office Supplies
+2020-02-29,2745.86,Income,Grants
+2020-03-01,1812.94,Income,Grants
+2020-03-01,2558.09,Expense,Salaries
+2020-03-01,1012.74,Expense,Office Supplies
+2020-03-02,1535.12,Expense,Rent
+2020-03-02,9866.23,Income,Grants
+2020-03-03,1372.32,Expense,Utilities
+2020-03-03,9166.5,Income,Service Revenue
+2020-03-05,209.48,Expense,Office Supplies
+2020-03-05,338.69,Income,Product Sales
+2020-03-06,2371.0,Income,Grants
+2020-03-07,224.52,Expense,Rent
+2020-03-07,3452.12,Expense,Office Supplies
+2020-03-09,2768.64,Expense,Utilities
+2020-03-09,9813.7,Income,Product Sales
+2020-03-09,2083.75,Expense,Salaries
+2020-03-12,1728.4,Expense,Office Supplies
+2020-03-13,2850.79,Expense,Travel
+2020-03-13,3268.56,Income,Product Sales
+2020-03-13,7446.02,Income,Grants
+2020-03-15,4984.11,Expense,Rent
+2020-03-15,3722.31,Expense,Salaries
+2020-03-15,1802.65,Expense,Travel
+2020-03-15,8543.97,Income,Service Revenue
+2020-03-15,4531.97,Expense,Travel
+2020-03-16,3482.03,Expense,Rent
+2020-03-18,1061.11,Expense,Marketing
+2020-03-18,3209.03,Income,Investment Return
+2020-03-18,1828.44,Income,Investment Return
+2020-03-19,327.14,Expense,Rent
+2020-03-19,7448.76,Income,Service Revenue
+2020-03-20,3130.83,Expense,Rent
+2020-03-21,4621.88,Expense,Rent
+2020-03-22,30.34,Expense,Utilities
+2020-03-22,2963.51,Income,Grants
+2020-03-23,1394.23,Expense,Travel
+2020-03-23,4185.38,Expense,Marketing
+2020-03-24,3022.41,Expense,Salaries
+2020-03-25,3225.72,Expense,Utilities
+2020-03-26,4168.03,Expense,Marketing
+2020-03-26,3854.71,Expense,Utilities
+2020-03-27,199.1,Income,Product Sales
+2020-03-27,1625.18,Expense,Marketing
+2020-03-27,2865.46,Income,Grants
+2020-03-27,6322.17,Income,Service Revenue
+2020-03-28,3089.81,Expense,Office Supplies
+2020-03-28,2375.49,Expense,Office Supplies
+2020-03-29,638.05,Expense,Rent
+2020-03-30,4046.56,Income,Investment Return
+2020-03-30,1469.18,Expense,Travel
+2020-03-30,7555.88,Income,Investment Return
+2020-03-30,6018.62,Income,Service Revenue
+2020-03-30,2927.92,Expense,Rent
+2020-03-31,2403.95,Expense,Travel
+2020-04-01,1609.23,Expense,Marketing
+2020-04-01,4590.51,Expense,Travel
+2020-04-01,3185.45,Expense,Rent
+2020-04-01,4516.88,Income,Grants
+2020-04-01,2605.65,Expense,Rent
+2020-04-02,2596.12,Expense,Travel
+2020-04-02,2428.2,Expense,Marketing
+2020-04-03,1632.18,Expense,Rent
+2020-04-04,3801.37,Expense,Marketing
+2020-04-04,2238.36,Expense,Marketing
+2020-04-04,5855.08,Income,Product Sales
+2020-04-04,1230.95,Income,Grants
+2020-04-05,565.23,Income,Service Revenue
+2020-04-05,8847.29,Income,Product Sales
+2020-04-05,4663.79,Expense,Office Supplies
+2020-04-07,3108.8,Expense,Utilities
+2020-04-07,331.15,Expense,Office Supplies
+2020-04-07,3186.84,Expense,Office Supplies
+2020-04-08,2087.32,Expense,Utilities
+2020-04-08,9089.35,Income,Service Revenue
+2020-04-08,6364.75,Income,Product Sales
+2020-04-09,6871.35,Income,Investment Return
+2020-04-10,1859.57,Expense,Rent
+2020-04-10,4587.04,Expense,Office Supplies
+2020-04-11,4990.39,Income,Investment Return
+2020-04-11,5518.32,Income,Grants
+2020-04-11,8921.11,Income,Investment Return
+2020-04-12,7088.97,Income,Grants
+2020-04-13,1940.06,Expense,Office Supplies
+2020-04-13,6224.24,Income,Service Revenue
+2020-04-14,305.5,Income,Product Sales
+2020-04-14,1042.96,Income,Grants
+2020-04-15,4560.4,Expense,Rent
+2020-04-15,4071.36,Income,Product Sales
+2020-04-16,2478.17,Income,Product Sales
+2020-04-17,2274.72,Expense,Travel
+2020-04-17,4656.37,Expense,Utilities
+2020-04-18,4514.96,Income,Product Sales
+2020-04-18,429.35,Income,Investment Return
+2020-04-20,1949.58,Expense,Rent
+2020-04-20,4833.46,Expense,Salaries
+2020-04-20,9336.27,Income,Service Revenue
+2020-04-20,119.72,Expense,Marketing
+2020-04-21,1114.71,Income,Service Revenue
+2020-04-22,5061.51,Income,Grants
+2020-04-22,6179.92,Income,Grants
+2020-04-22,1744.14,Income,Investment Return
+2020-04-22,8695.21,Income,Grants
+2020-04-23,621.32,Expense,Travel
+2020-04-23,614.86,Expense,Rent
+2020-04-23,1734.65,Expense,Rent
+2020-04-24,8610.83,Income,Service Revenue
+2020-04-24,475.61,Expense,Utilities
+2020-04-25,3166.76,Expense,Rent
+2020-04-25,1910.64,Income,Product Sales
+2020-04-26,1598.57,Income,Product Sales
+2020-04-26,1117.19,Expense,Salaries
+2020-04-26,3315.82,Expense,Salaries
+2020-04-27,709.07,Expense,Office Supplies
+2020-04-27,3280.53,Expense,Travel
+2020-04-28,3223.98,Income,Investment Return
+2020-04-28,2469.39,Income,Grants
+2020-04-29,928.88,Income,Investment Return
+2020-05-01,3642.71,Expense,Office Supplies
+2020-05-01,800.84,Income,Service Revenue
+2020-05-01,4860.96,Expense,Travel
+2020-05-01,9859.47,Income,Investment Return
+2020-05-02,1669.11,Expense,Office Supplies
+2020-05-03,3422.97,Expense,Marketing
+2020-05-03,370.62,Expense,Marketing
+2020-05-03,4245.44,Expense,Travel
+2020-05-05,495.88,Expense,Salaries
+2020-05-05,3295.67,Expense,Rent
+2020-05-05,4929.13,Expense,Travel
+2020-05-06,4345.41,Expense,Rent
+2020-05-07,3176.08,Income,Investment Return
+2020-05-07,573.53,Expense,Utilities
+2020-05-07,3635.79,Expense,Salaries
+2020-05-07,6456.66,Income,Product Sales
+2020-05-08,7773.31,Income,Service Revenue
+2020-05-08,2080.26,Expense,Marketing
+2020-05-08,3369.77,Expense,Travel
+2020-05-09,4106.31,Expense,Marketing
+2020-05-09,2444.81,Income,Investment Return
+2020-05-09,4231.42,Expense,Utilities
+2020-05-09,2101.06,Expense,Travel
+2020-05-10,307.55,Expense,Marketing
+2020-05-10,4029.78,Income,Product Sales
+2020-05-10,666.64,Income,Product Sales
+2020-05-11,3564.65,Expense,Travel
+2020-05-11,834.81,Expense,Office Supplies
+2020-05-12,8532.72,Income,Grants
+2020-05-12,4105.21,Expense,Rent
+2020-05-12,167.72,Income,Investment Return
+2020-05-13,3751.91,Expense,Travel
+2020-05-13,4516.28,Expense,Office Supplies
+2020-05-14,774.28,Income,Product Sales
+2020-05-15,4180.99,Expense,Rent
+2020-05-16,6140.94,Income,Service Revenue
+2020-05-16,5461.81,Income,Grants
+2020-05-17,9270.45,Income,Service Revenue
+2020-05-17,30.88,Expense,Utilities
+2020-05-17,6358.01,Income,Product Sales
+2020-05-18,439.64,Expense,Travel
+2020-05-19,1642.61,Expense,Office Supplies
+2020-05-20,6205.46,Income,Investment Return
+2020-05-20,365.15,Expense,Travel
+2020-05-20,4675.77,Expense,Travel
+2020-05-21,7993.63,Income,Investment Return
+2020-05-22,2051.29,Expense,Travel
+2020-05-22,5864.15,Income,Investment Return
+2020-05-22,4350.69,Expense,Travel
+2020-05-22,9634.63,Income,Service Revenue
+2020-05-23,5543.66,Income,Product Sales
+2020-05-23,3656.61,Expense,Marketing
+2020-05-23,4977.46,Expense,Utilities
+2020-05-24,3458.28,Income,Product Sales
+2020-05-24,3645.5,Expense,Salaries
+2020-05-25,7209.86,Income,Investment Return
+2020-05-25,9938.46,Income,Product Sales
+2020-05-25,3162.96,Expense,Salaries
+2020-05-26,2946.73,Expense,Travel
+2020-05-26,1472.63,Expense,Marketing
+2020-05-27,5126.75,Income,Investment Return
+2020-05-27,3792.7,Income,Investment Return
+2020-05-28,3335.84,Expense,Salaries
+2020-05-28,4099.79,Expense,Salaries
+2020-05-28,6955.89,Income,Investment Return
+2020-05-28,421.74,Expense,Marketing
+2020-05-28,2622.01,Income,Investment Return
+2020-05-28,7337.0,Income,Service Revenue
+2020-05-29,3394.53,Income,Grants
+2020-05-30,3442.73,Expense,Office Supplies
+2020-05-30,250.06,Expense,Travel
+2020-05-30,1227.87,Expense,Utilities
+2020-05-31,4559.93,Expense,Marketing
+2020-05-31,4452.89,Expense,Office Supplies
+2020-05-31,2352.14,Expense,Rent
+2020-06-01,3849.22,Expense,Travel
+2020-06-02,167.47,Income,Investment Return
+2020-06-02,3055.34,Expense,Utilities
+2020-06-02,7039.26,Income,Service Revenue
+2020-06-03,2748.52,Income,Service Revenue
+2020-06-03,3066.0,Expense,Salaries
+2020-06-04,8189.36,Income,Grants
+2020-06-04,6730.57,Income,Investment Return
+2020-06-05,4848.06,Expense,Rent
+2020-06-05,3628.99,Expense,Office Supplies
+2020-06-06,3476.21,Expense,Office Supplies
+2020-06-07,1944.11,Expense,Rent
+2020-06-07,1126.97,Expense,Salaries
+2020-06-07,2978.8,Expense,Rent
+2020-06-08,1232.98,Expense,Travel
+2020-06-08,204.82,Expense,Utilities
+2020-06-08,5249.93,Income,Investment Return
+2020-06-08,3442.21,Expense,Office Supplies
+2020-06-09,920.76,Expense,Travel
+2020-06-09,1362.94,Income,Investment Return
+2020-06-09,3883.84,Expense,Office Supplies
+2020-06-10,4938.99,Expense,Travel
+2020-06-10,2154.65,Expense,Rent
+2020-06-10,1202.68,Expense,Salaries
+2020-06-11,2213.06,Expense,Salaries
+2020-06-12,3022.17,Expense,Travel
+2020-06-12,4268.82,Expense,Utilities
+2020-06-13,1361.7,Expense,Marketing
+2020-06-13,3151.79,Expense,Utilities
+2020-06-13,1133.59,Expense,Salaries
+2020-06-14,715.67,Expense,Marketing
+2020-06-14,2262.41,Expense,Travel
+2020-06-15,2862.39,Expense,Salaries
+2020-06-15,5968.43,Income,Service Revenue
+2020-06-16,3261.15,Expense,Salaries
+2020-06-17,3841.05,Expense,Office Supplies
+2020-06-18,6768.11,Income,Grants
+2020-06-18,1284.84,Expense,Travel
+2020-06-20,613.15,Expense,Travel
+2020-06-20,271.53,Expense,Salaries
+2020-06-21,4189.07,Expense,Rent
+2020-06-21,3756.3,Expense,Utilities
+2020-06-21,9373.57,Income,Grants
+2020-06-21,2778.04,Expense,Travel
+2020-06-25,3376.61,Expense,Utilities
+2020-06-25,975.94,Expense,Travel
+2020-06-25,1525.63,Income,Product Sales
+2020-06-25,1761.98,Expense,Office Supplies
+2020-06-29,660.41,Expense,Office Supplies
+2020-06-30,6439.77,Income,Investment Return
+2020-07-01,255.18,Expense,Rent
+2020-07-01,4129.74,Expense,Utilities
+2020-07-01,536.71,Expense,Office Supplies
+2020-07-01,1581.12,Expense,Salaries
+2020-07-02,3103.46,Expense,Utilities
+2020-07-04,4396.16,Expense,Utilities
+2020-07-05,591.47,Expense,Rent
+2020-07-05,1690.27,Income,Product Sales
+2020-07-05,5263.35,Income,Grants
+2020-07-06,663.53,Expense,Utilities
+2020-07-06,3250.7,Expense,Utilities
+2020-07-06,3487.65,Income,Investment Return
+2020-07-06,84.28,Expense,Rent
+2020-07-08,2497.53,Income,Service Revenue
+2020-07-08,2227.67,Income,Service Revenue
+2020-07-08,7910.56,Income,Investment Return
+2020-07-08,858.56,Income,Service Revenue
+2020-07-08,4115.25,Expense,Travel
+2020-07-09,4313.81,Expense,Office Supplies
+2020-07-09,7172.7,Income,Product Sales
+2020-07-10,483.69,Income,Product Sales
+2020-07-10,371.96,Income,Product Sales
+2020-07-10,1553.21,Expense,Office Supplies
+2020-07-12,2921.02,Expense,Rent
+2020-07-12,3510.31,Expense,Utilities
+2020-07-12,2027.1,Expense,Salaries
+2020-07-14,267.31,Expense,Rent
+2020-07-14,3745.57,Expense,Marketing
+2020-07-16,4530.25,Income,Product Sales
+2020-07-16,9886.55,Income,Investment Return
+2020-07-16,2380.9,Expense,Utilities
+2020-07-16,4282.89,Expense,Office Supplies
+2020-07-16,4366.78,Income,Service Revenue
+2020-07-17,3844.02,Expense,Marketing
+2020-07-17,4431.89,Expense,Marketing
+2020-07-18,3655.02,Expense,Office Supplies
+2020-07-19,2259.93,Income,Investment Return
+2020-07-19,1208.15,Income,Grants
+2020-07-20,338.12,Expense,Salaries
+2020-07-20,1641.91,Expense,Salaries
+2020-07-20,4890.11,Income,Investment Return
+2020-07-21,72.55,Expense,Marketing
+2020-07-21,4576.8,Income,Service Revenue
+2020-07-21,295.97,Expense,Office Supplies
+2020-07-23,4839.36,Expense,Utilities
+2020-07-23,4801.89,Expense,Travel
+2020-07-24,3925.67,Expense,Salaries
+2020-07-24,7934.96,Income,Product Sales
+2020-07-25,1515.31,Income,Grants
+2020-07-26,127.79,Expense,Marketing
+2020-07-26,4914.64,Expense,Office Supplies
+2020-07-26,3440.97,Expense,Travel
+2020-07-26,922.5,Expense,Salaries
+2020-07-27,3366.82,Expense,Travel
+2020-07-28,5041.95,Income,Product Sales
+2020-07-29,490.1,Expense,Office Supplies
+2020-07-31,9184.25,Income,Product Sales
+2020-07-31,2649.78,Expense,Travel
+2020-08-01,3689.4,Expense,Marketing
+2020-08-01,1203.73,Income,Product Sales
+2020-08-02,4484.01,Income,Grants
+2020-08-03,1421.13,Expense,Travel
+2020-08-03,930.67,Expense,Utilities
+2020-08-03,2854.85,Income,Service Revenue
+2020-08-03,1973.49,Expense,Travel
+2020-08-04,3484.29,Income,Investment Return
+2020-08-04,3534.06,Expense,Travel
+2020-08-04,4231.35,Expense,Salaries
+2020-08-04,4492.77,Expense,Utilities
+2020-08-04,9273.99,Income,Grants
+2020-08-05,1978.44,Expense,Office Supplies
+2020-08-05,3824.01,Expense,Travel
+2020-08-05,353.14,Income,Service Revenue
+2020-08-07,3649.36,Expense,Marketing
+2020-08-10,2715.99,Expense,Rent
+2020-08-11,1806.13,Expense,Rent
+2020-08-11,1586.85,Expense,Salaries
+2020-08-12,1170.73,Income,Investment Return
+2020-08-12,7235.18,Income,Grants
+2020-08-13,235.71,Expense,Utilities
+2020-08-13,3561.58,Expense,Travel
+2020-08-13,712.07,Expense,Travel
+2020-08-14,1827.07,Expense,Utilities
+2020-08-15,914.41,Expense,Office Supplies
+2020-08-15,331.28,Expense,Salaries
+2020-08-16,3340.32,Expense,Marketing
+2020-08-17,784.62,Income,Service Revenue
+2020-08-18,330.97,Expense,Salaries
+2020-08-18,2216.93,Expense,Travel
+2020-08-18,959.15,Income,Grants
+2020-08-18,2022.21,Income,Service Revenue
+2020-08-19,2108.44,Income,Service Revenue
+2020-08-19,1190.41,Income,Service Revenue
+2020-08-20,5500.35,Income,Investment Return
+2020-08-20,3729.23,Expense,Travel
+2020-08-21,9647.88,Income,Investment Return
+2020-08-22,2942.93,Income,Service Revenue
+2020-08-22,2267.31,Expense,Rent
+2020-08-23,2019.46,Expense,Rent
+2020-08-23,1545.21,Expense,Salaries
+2020-08-23,953.89,Expense,Travel
+2020-08-24,3574.26,Expense,Utilities
+2020-08-24,7201.89,Income,Service Revenue
+2020-08-25,3678.72,Income,Grants
+2020-08-25,2511.45,Expense,Salaries
+2020-08-26,5747.05,Income,Investment Return
+2020-08-29,8712.38,Income,Grants
+2020-08-29,6831.72,Income,Investment Return
+2020-08-29,2299.56,Expense,Rent
+2020-08-29,2100.6,Income,Grants
+2020-08-29,1546.08,Expense,Office Supplies
+2020-08-29,3162.63,Expense,Rent
+2020-08-30,2687.46,Expense,Travel
+2020-08-31,7542.53,Income,Grants
+2020-08-31,7669.23,Income,Grants
+2020-09-01,5177.34,Income,Investment Return
+2020-09-02,192.56,Expense,Utilities
+2020-09-02,3341.47,Income,Product Sales
+2020-09-03,3368.5,Expense,Marketing
+2020-09-03,2003.44,Expense,Marketing
+2020-09-05,4065.38,Expense,Utilities
+2020-09-05,3173.65,Expense,Marketing
+2020-09-06,2023.31,Income,Investment Return
+2020-09-06,2080.39,Expense,Office Supplies
+2020-09-06,3133.58,Expense,Utilities
+2020-09-07,1703.15,Expense,Utilities
+2020-09-07,2214.88,Expense,Marketing
+2020-09-09,1821.0,Expense,Salaries
+2020-09-09,1258.13,Income,Service Revenue
+2020-09-09,1200.97,Income,Service Revenue
+2020-09-10,9167.76,Income,Investment Return
+2020-09-10,5728.67,Income,Service Revenue
+2020-09-10,4056.13,Expense,Utilities
+2020-09-10,3896.57,Expense,Rent
+2020-09-12,475.3,Expense,Rent
+2020-09-12,325.9,Expense,Utilities
+2020-09-14,632.35,Income,Service Revenue
+2020-09-15,3212.3,Expense,Salaries
+2020-09-15,3408.31,Expense,Marketing
+2020-09-17,3455.55,Income,Service Revenue
+2020-09-17,3949.33,Expense,Office Supplies
+2020-09-17,2261.2,Income,Product Sales
+2020-09-17,1151.83,Income,Investment Return
+2020-09-18,1498.54,Expense,Rent
+2020-09-19,511.44,Income,Service Revenue
+2020-09-19,9620.0,Income,Investment Return
+2020-09-19,2451.84,Income,Grants
+2020-09-20,3199.67,Expense,Utilities
+2020-09-21,6333.32,Income,Investment Return
+2020-09-22,8737.95,Income,Grants
+2020-09-22,1459.9,Expense,Marketing
+2020-09-24,894.85,Expense,Utilities
+2020-09-24,6667.29,Income,Service Revenue
+2020-09-25,3408.79,Expense,Office Supplies
+2020-09-26,5532.92,Income,Product Sales
+2020-09-26,720.15,Expense,Marketing
+2020-09-26,1103.66,Income,Investment Return
+2020-09-26,3024.6,Expense,Travel
+2020-09-28,3540.64,Expense,Travel
+2020-09-29,440.17,Expense,Marketing
+2020-09-29,4050.66,Expense,Utilities
+2020-09-30,3341.34,Expense,Rent
+2020-10-01,4775.26,Income,Grants
+2020-10-02,3409.19,Expense,Travel
+2020-10-03,1914.8,Expense,Salaries
+2020-10-03,5041.18,Income,Investment Return
+2020-10-03,1887.13,Income,Product Sales
+2020-10-04,2320.96,Expense,Travel
+2020-10-04,1522.96,Expense,Utilities
+2020-10-05,2354.57,Expense,Utilities
+2020-10-06,1003.96,Income,Service Revenue
+2020-10-06,2906.5,Expense,Marketing
+2020-10-07,4777.9,Income,Product Sales
+2020-10-08,2257.39,Expense,Marketing
+2020-10-09,8839.95,Income,Investment Return
+2020-10-10,1666.19,Expense,Utilities
+2020-10-11,3419.61,Expense,Salaries
+2020-10-11,4196.27,Expense,Salaries
+2020-10-11,7220.42,Income,Service Revenue
+2020-10-11,4995.27,Expense,Travel
+2020-10-12,1630.75,Expense,Utilities
+2020-10-12,3247.26,Income,Product Sales
+2020-10-13,4825.34,Expense,Salaries
+2020-10-13,6926.87,Income,Investment Return
+2020-10-13,1804.76,Income,Product Sales
+2020-10-14,4752.53,Expense,Rent
+2020-10-14,2761.68,Income,Investment Return
+2020-10-15,4180.16,Expense,Rent
+2020-10-15,505.25,Income,Service Revenue
+2020-10-15,4773.03,Expense,Salaries
+2020-10-17,3963.93,Income,Grants
+2020-10-17,297.53,Expense,Rent
+2020-10-19,2583.63,Expense,Travel
+2020-10-19,639.62,Expense,Marketing
+2020-10-20,3271.81,Expense,Marketing
+2020-10-21,3616.64,Expense,Office Supplies
+2020-10-21,4632.27,Income,Service Revenue
+2020-10-22,7239.21,Income,Grants
+2020-10-22,4933.7,Expense,Office Supplies
+2020-10-22,4978.28,Expense,Office Supplies
+2020-10-24,2255.48,Income,Investment Return
+2020-10-27,274.93,Income,Grants
+2020-10-28,3651.47,Expense,Travel
+2020-10-28,4720.01,Expense,Marketing
+2020-10-28,541.29,Expense,Utilities
+2020-10-28,5137.96,Income,Product Sales
+2020-10-28,3517.98,Expense,Salaries
+2020-10-29,327.58,Expense,Office Supplies
+2020-10-29,4453.38,Expense,Office Supplies
+2020-10-29,2330.72,Expense,Marketing
+2020-10-30,9594.93,Income,Product Sales
+2020-10-31,8585.26,Income,Grants
+2020-10-31,4297.48,Expense,Salaries
+2020-10-31,2942.01,Expense,Marketing
+2020-10-31,3319.59,Expense,Marketing
+2020-11-01,3035.72,Income,Grants
+2020-11-02,3069.39,Income,Investment Return
+2020-11-03,991.08,Expense,Salaries
+2020-11-03,4564.77,Expense,Salaries
+2020-11-04,3370.7,Expense,Office Supplies
+2020-11-06,2010.3,Expense,Salaries
+2020-11-06,181.3,Expense,Utilities
+2020-11-06,1318.16,Expense,Salaries
+2020-11-06,3158.27,Expense,Rent
+2020-11-07,4770.61,Expense,Office Supplies
+2020-11-07,6225.6,Income,Grants
+2020-11-08,9975.43,Income,Grants
+2020-11-08,1146.86,Expense,Rent
+2020-11-08,3242.15,Income,Service Revenue
+2020-11-09,4439.46,Expense,Marketing
+2020-11-09,5618.31,Income,Service Revenue
+2020-11-09,4963.28,Expense,Rent
+2020-11-10,2990.24,Expense,Salaries
+2020-11-11,4396.27,Expense,Salaries
+2020-11-12,641.85,Expense,Salaries
+2020-11-13,2272.79,Expense,Travel
+2020-11-13,3698.94,Expense,Utilities
+2020-11-13,1353.61,Expense,Marketing
+2020-11-13,4597.36,Income,Investment Return
+2020-11-13,926.67,Expense,Rent
+2020-11-15,4260.0,Expense,Marketing
+2020-11-16,3867.9,Expense,Rent
+2020-11-16,1066.76,Expense,Office Supplies
+2020-11-16,2600.02,Expense,Marketing
+2020-11-19,3582.03,Income,Product Sales
+2020-11-19,2914.45,Expense,Marketing
+2020-11-19,3755.76,Expense,Marketing
+2020-11-21,2588.07,Expense,Rent
+2020-11-22,3096.98,Expense,Travel
+2020-11-22,2262.38,Expense,Travel
+2020-11-23,56.81,Expense,Travel
+2020-11-23,1565.33,Expense,Rent
+2020-11-23,1400.18,Expense,Utilities
+2020-11-24,3745.12,Expense,Office Supplies
+2020-11-24,4776.21,Expense,Utilities
+2020-11-24,1562.15,Expense,Marketing
+2020-11-25,2946.38,Expense,Rent
+2020-11-25,2456.35,Expense,Rent
+2020-11-26,3077.62,Expense,Office Supplies
+2020-11-29,4095.17,Expense,Office Supplies
+2020-11-29,2724.3,Income,Product Sales
+2020-11-29,1104.39,Expense,Utilities
+2020-11-30,6829.08,Income,Product Sales
+2020-11-30,648.91,Income,Product Sales
+2020-11-30,834.5,Expense,Travel
+2020-12-01,402.08,Expense,Office Supplies
+2020-12-01,1177.37,Expense,Travel
+2020-12-01,1654.24,Expense,Rent
+2020-12-01,4392.33,Expense,Office Supplies
+2020-12-01,974.52,Expense,Rent
+2020-12-02,901.44,Income,Service Revenue
+2020-12-03,1929.27,Expense,Marketing
+2020-12-03,6314.68,Income,Service Revenue
+2020-12-03,3656.26,Expense,Office Supplies
+2020-12-03,4477.43,Expense,Utilities
+2020-12-03,530.6,Expense,Marketing
+2020-12-04,6641.91,Income,Product Sales
+2020-12-04,2248.81,Expense,Salaries
+2020-12-05,4630.62,Expense,Utilities
+2020-12-06,1048.54,Expense,Office Supplies
+2020-12-06,2747.41,Income,Service Revenue
+2020-12-07,1570.68,Expense,Office Supplies
+2020-12-07,4589.37,Expense,Marketing
+2020-12-07,2169.47,Income,Investment Return
+2020-12-07,2249.32,Income,Investment Return
+2020-12-08,289.08,Income,Grants
+2020-12-09,2086.5,Expense,Travel
+2020-12-10,7839.12,Income,Product Sales
+2020-12-10,911.91,Income,Investment Return
+2020-12-11,2746.64,Expense,Salaries
+2020-12-11,2728.99,Expense,Utilities
+2020-12-11,4949.72,Income,Grants
+2020-12-12,204.46,Income,Investment Return
+2020-12-13,4094.36,Expense,Salaries
+2020-12-13,1552.36,Expense,Marketing
+2020-12-14,2950.06,Expense,Utilities
+2020-12-14,2172.51,Expense,Salaries
+2020-12-15,8702.7,Income,Product Sales
+2020-12-15,2070.21,Income,Investment Return
+2020-12-15,3073.5,Expense,Travel
+2020-12-15,3579.18,Expense,Travel
+2020-12-16,5700.85,Income,Service Revenue
+2020-12-18,4964.86,Expense,Salaries
+2020-12-18,245.01,Income,Product Sales
+2020-12-18,6536.12,Income,Investment Return
+2020-12-19,4705.56,Expense,Marketing
+2020-12-21,2390.44,Income,Grants
+2020-12-21,1318.33,Expense,Salaries
+2020-12-21,702.52,Expense,Marketing
+2020-12-21,884.88,Expense,Salaries
+2020-12-22,430.38,Expense,Rent
+2020-12-23,4044.18,Expense,Marketing
+2020-12-25,3578.01,Expense,Utilities
+2020-12-25,2012.28,Income,Product Sales
+2020-12-25,4604.73,Expense,Rent
+2020-12-26,4673.41,Expense,Travel
+2020-12-26,2582.52,Expense,Travel
+2020-12-27,9619.97,Income,Product Sales
+2020-12-28,5736.05,Income,Investment Return
+2020-12-28,8675.71,Income,Product Sales
+2020-12-28,2583.81,Income,Product Sales
+2020-12-28,1984.34,Income,Product Sales
+2020-12-29,7678.88,Income,Investment Return
+2020-12-29,9460.4,Income,Product Sales
+2020-12-29,470.99,Expense,Marketing
+2020-12-30,2973.53,Income,Grants
+2020-12-30,2506.01,Expense,Rent
+2020-12-30,9303.53,Income,Service Revenue
+2020-12-31,3956.21,Income,Product Sales
+2021-01-02,723.39,Expense,Marketing
+2021-01-04,4659.86,Expense,Rent
+2021-01-04,4445.99,Expense,Salaries
+2021-01-05,1118.76,Income,Investment Return
+2021-01-05,1221.67,Income,Service Revenue
+2021-01-06,1081.45,Expense,Rent
+2021-01-07,2866.51,Income,Service Revenue
+2021-01-07,2715.37,Expense,Utilities
+2021-01-08,3459.3,Income,Service Revenue
+2021-01-08,3641.77,Income,Grants
+2021-01-08,542.08,Expense,Travel
+2021-01-09,4031.37,Expense,Office Supplies
+2021-01-09,5788.36,Income,Product Sales
+2021-01-10,3487.04,Expense,Rent
+2021-01-10,2698.6,Income,Grants
+2021-01-11,3278.65,Expense,Rent
+2021-01-12,1898.15,Income,Grants
+2021-01-12,339.91,Expense,Travel
+2021-01-12,2428.78,Expense,Salaries
+2021-01-13,2049.19,Income,Service Revenue
+2021-01-14,1853.56,Income,Grants
+2021-01-14,1148.92,Expense,Rent
+2021-01-15,1806.46,Expense,Office Supplies
+2021-01-15,3673.54,Expense,Utilities
+2021-01-15,1093.74,Expense,Marketing
+2021-01-15,4936.57,Income,Service Revenue
+2021-01-16,3368.36,Expense,Travel
+2021-01-17,1316.81,Expense,Marketing
+2021-01-18,3933.74,Income,Product Sales
+2021-01-18,5838.01,Income,Investment Return
+2021-01-19,523.12,Income,Service Revenue
+2021-01-19,4641.7,Expense,Travel
+2021-01-20,3679.1,Expense,Salaries
+2021-01-20,5374.99,Income,Service Revenue
+2021-01-20,8187.21,Income,Product Sales
+2021-01-20,694.07,Expense,Salaries
+2021-01-21,3763.94,Expense,Salaries
+2021-01-21,7085.07,Income,Investment Return
+2021-01-22,1568.77,Income,Service Revenue
+2021-01-23,7951.97,Income,Investment Return
+2021-01-23,6633.94,Income,Grants
+2021-01-24,9785.47,Income,Product Sales
+2021-01-24,1930.71,Income,Product Sales
+2021-01-25,8070.66,Income,Grants
+2021-01-25,4689.45,Expense,Salaries
+2021-01-26,7546.07,Income,Grants
+2021-01-27,81.46,Expense,Marketing
+2021-01-27,9936.42,Income,Grants
+2021-01-29,2087.06,Income,Investment Return
+2021-01-29,3503.68,Expense,Marketing
+2021-01-30,102.97,Expense,Rent
+2021-01-30,8638.72,Income,Service Revenue
+2021-01-30,1095.57,Income,Service Revenue
+2021-01-30,299.69,Expense,Salaries
+2021-01-31,4499.07,Expense,Rent
+2021-01-31,1268.26,Income,Grants
+2021-01-31,4883.03,Income,Product Sales
+2021-01-31,1545.38,Expense,Utilities
+2021-01-31,1193.4,Expense,Travel
+2021-02-01,2724.13,Expense,Marketing
+2021-02-01,1784.8,Expense,Marketing
+2021-02-01,334.39,Expense,Rent
+2021-02-02,8390.75,Income,Grants
+2021-02-02,7655.19,Income,Product Sales
+2021-02-02,255.39,Income,Service Revenue
+2021-02-02,1569.75,Expense,Utilities
+2021-02-02,1360.56,Expense,Salaries
+2021-02-03,4943.86,Income,Product Sales
+2021-02-03,5831.88,Income,Product Sales
+2021-02-04,3834.54,Expense,Rent
+2021-02-04,4755.08,Expense,Office Supplies
+2021-02-04,4523.16,Income,Investment Return
+2021-02-04,4037.73,Expense,Rent
+2021-02-04,2515.18,Expense,Marketing
+2021-02-04,1749.02,Expense,Office Supplies
+2021-02-04,7335.71,Income,Investment Return
+2021-02-05,624.65,Expense,Travel
+2021-02-05,6817.06,Income,Investment Return
+2021-02-05,1198.84,Expense,Utilities
+2021-02-06,1054.76,Expense,Salaries
+2021-02-07,9576.25,Income,Service Revenue
+2021-02-07,2608.46,Income,Investment Return
+2021-02-08,1621.23,Expense,Rent
+2021-02-08,8897.56,Income,Service Revenue
+2021-02-08,8660.06,Income,Product Sales
+2021-02-09,106.21,Income,Service Revenue
+2021-02-09,1969.06,Income,Grants
+2021-02-09,1344.49,Income,Service Revenue
+2021-02-09,2691.9,Expense,Rent
+2021-02-10,8676.3,Income,Service Revenue
+2021-02-10,3757.71,Expense,Rent
+2021-02-11,4416.35,Income,Grants
+2021-02-11,5759.62,Income,Service Revenue
+2021-02-13,2909.6,Income,Investment Return
+2021-02-16,6741.56,Income,Investment Return
+2021-02-16,972.71,Income,Product Sales
+2021-02-17,3987.29,Expense,Salaries
+2021-02-17,4492.09,Income,Grants
+2021-02-17,4517.09,Income,Grants
+2021-02-17,4983.48,Income,Product Sales
+2021-02-21,3480.69,Expense,Travel
+2021-02-21,1549.59,Expense,Rent
+2021-02-22,9064.83,Income,Grants
+2021-02-22,5140.66,Income,Investment Return
+2021-02-22,5010.82,Income,Product Sales
+2021-02-23,8201.18,Income,Investment Return
+2021-02-23,123.0,Income,Product Sales
+2021-02-23,1453.64,Expense,Rent
+2021-02-23,1023.29,Expense,Office Supplies
+2021-02-24,4517.08,Expense,Office Supplies
+2021-02-25,4084.14,Expense,Travel
+2021-02-25,1917.28,Income,Grants
+2021-02-25,2446.32,Expense,Rent
+2021-02-26,2062.24,Income,Service Revenue
+2021-02-28,2474.62,Expense,Rent
+2021-02-28,1831.35,Income,Investment Return
+2021-02-28,3172.76,Expense,Office Supplies
+2021-02-28,3315.29,Expense,Marketing
+2021-03-01,4028.21,Income,Product Sales
+2021-03-02,4345.39,Expense,Office Supplies
+2021-03-02,2187.76,Expense,Marketing
+2021-03-02,4942.68,Expense,Travel
+2021-03-03,5250.3,Income,Investment Return
+2021-03-03,1995.02,Expense,Salaries
+2021-03-04,4046.68,Expense,Marketing
+2021-03-05,6841.44,Income,Product Sales
+2021-03-07,4518.18,Expense,Rent
+2021-03-07,6036.01,Income,Investment Return
+2021-03-07,3184.43,Expense,Utilities
+2021-03-10,596.8,Expense,Salaries
+2021-03-10,4239.4,Expense,Rent
+2021-03-10,3844.49,Expense,Utilities
+2021-03-10,7240.12,Income,Product Sales
+2021-03-11,4953.93,Expense,Office Supplies
+2021-03-11,2486.54,Income,Product Sales
+2021-03-13,4152.51,Expense,Salaries
+2021-03-13,1287.61,Expense,Salaries
+2021-03-16,4006.67,Expense,Marketing
+2021-03-17,2387.81,Expense,Travel
+2021-03-17,1015.91,Income,Product Sales
+2021-03-17,4359.15,Expense,Salaries
+2021-03-17,9841.91,Income,Grants
+2021-03-18,1193.23,Expense,Utilities
+2021-03-19,3684.87,Expense,Salaries
+2021-03-20,1180.7,Expense,Utilities
+2021-03-20,259.43,Expense,Travel
+2021-03-20,28.19,Expense,Rent
+2021-03-20,3926.34,Expense,Rent
+2021-03-20,426.77,Expense,Rent
+2021-03-21,5076.04,Income,Grants
+2021-03-22,6322.81,Income,Grants
+2021-03-22,2796.06,Expense,Travel
+2021-03-23,4547.75,Income,Grants
+2021-03-24,3352.94,Expense,Salaries
+2021-03-24,4653.82,Income,Service Revenue
+2021-03-24,6107.25,Income,Service Revenue
+2021-03-24,2528.47,Expense,Rent
+2021-03-25,1829.1,Expense,Marketing
+2021-03-27,1210.29,Expense,Travel
+2021-03-28,1377.8,Expense,Travel
+2021-03-28,3295.43,Expense,Travel
+2021-03-28,994.86,Expense,Travel
+2021-03-28,1897.5,Expense,Marketing
+2021-03-29,713.81,Expense,Travel
+2021-03-29,1739.42,Expense,Salaries
+2021-03-30,3582.6,Expense,Marketing
+2021-03-30,1816.82,Expense,Utilities
+2021-03-30,4320.15,Expense,Office Supplies
+2021-03-30,4735.46,Expense,Utilities
+2021-03-30,635.36,Expense,Salaries
+2021-03-31,2358.2,Expense,Rent
+2021-03-31,3669.64,Expense,Travel
+2021-03-31,1080.92,Expense,Salaries
+2021-04-01,4077.75,Income,Service Revenue
+2021-04-01,2522.28,Expense,Utilities
+2021-04-01,938.49,Expense,Travel
+2021-04-03,1592.4,Expense,Rent
+2021-04-03,9258.14,Income,Service Revenue
+2021-04-03,3583.79,Expense,Rent
+2021-04-04,7649.09,Income,Investment Return
+2021-04-04,1762.27,Expense,Marketing
+2021-04-04,1327.1,Expense,Salaries
+2021-04-04,292.37,Expense,Rent
+2021-04-04,2630.5,Expense,Office Supplies
+2021-04-05,779.62,Income,Product Sales
+2021-04-05,969.07,Expense,Rent
+2021-04-07,3372.09,Expense,Marketing
+2021-04-07,112.55,Income,Product Sales
+2021-04-08,4955.04,Income,Service Revenue
+2021-04-09,7302.61,Income,Grants
+2021-04-10,594.51,Expense,Marketing
+2021-04-11,2841.26,Expense,Marketing
+2021-04-11,101.85,Income,Service Revenue
+2021-04-11,2183.55,Income,Product Sales
+2021-04-11,282.54,Expense,Salaries
+2021-04-12,129.99,Expense,Utilities
+2021-04-13,8519.99,Income,Grants
+2021-04-14,2899.53,Expense,Office Supplies
+2021-04-14,6593.44,Income,Grants
+2021-04-15,3032.1,Expense,Marketing
+2021-04-15,4389.71,Expense,Travel
+2021-04-15,3376.71,Expense,Office Supplies
+2021-04-17,2715.19,Expense,Marketing
+2021-04-17,1638.12,Expense,Marketing
+2021-04-18,4333.59,Expense,Office Supplies
+2021-04-18,7900.9,Income,Investment Return
+2021-04-18,5831.76,Income,Service Revenue
+2021-04-19,8620.61,Income,Investment Return
+2021-04-19,829.44,Expense,Marketing
+2021-04-20,6988.37,Income,Grants
+2021-04-20,2393.1,Expense,Utilities
+2021-04-20,7553.2,Income,Investment Return
+2021-04-20,9993.43,Income,Product Sales
+2021-04-21,943.34,Expense,Utilities
+2021-04-21,1909.24,Income,Service Revenue
+2021-04-22,2614.01,Expense,Marketing
+2021-04-22,4469.16,Expense,Salaries
+2021-04-25,410.29,Income,Product Sales
+2021-04-25,2082.37,Expense,Rent
+2021-04-26,2818.44,Expense,Travel
+2021-04-26,8074.12,Income,Product Sales
+2021-04-27,5885.52,Income,Product Sales
+2021-04-27,961.15,Expense,Salaries
+2021-04-27,1461.39,Expense,Utilities
+2021-04-28,3149.47,Expense,Office Supplies
+2021-04-29,4380.91,Expense,Salaries
+2021-04-29,2779.14,Income,Service Revenue
+2021-04-29,2165.67,Expense,Utilities
+2021-05-02,7288.5,Income,Product Sales
+2021-05-02,4763.53,Expense,Travel
+2021-05-02,1846.75,Income,Investment Return
+2021-05-03,3642.84,Expense,Office Supplies
+2021-05-03,1673.29,Expense,Salaries
+2021-05-03,8709.85,Income,Product Sales
+2021-05-04,2464.24,Expense,Marketing
+2021-05-04,3960.99,Expense,Utilities
+2021-05-04,1492.82,Expense,Office Supplies
+2021-05-04,413.8,Expense,Salaries
+2021-05-05,2037.64,Expense,Utilities
+2021-05-06,3543.05,Income,Grants
+2021-05-06,3879.14,Expense,Travel
+2021-05-06,4477.38,Expense,Travel
+2021-05-07,1189.73,Income,Investment Return
+2021-05-07,164.14,Expense,Utilities
+2021-05-07,5712.24,Income,Service Revenue
+2021-05-08,2228.95,Expense,Salaries
+2021-05-08,2512.71,Income,Service Revenue
+2021-05-08,623.78,Income,Grants
+2021-05-09,4899.42,Expense,Rent
+2021-05-11,1607.07,Expense,Rent
+2021-05-11,1419.94,Income,Service Revenue
+2021-05-11,2948.87,Expense,Utilities
+2021-05-11,6726.63,Income,Investment Return
+2021-05-11,3606.13,Income,Grants
+2021-05-12,3455.16,Expense,Marketing
+2021-05-13,3664.99,Income,Grants
+2021-05-13,4358.83,Expense,Marketing
+2021-05-14,8027.95,Income,Product Sales
+2021-05-14,3736.89,Expense,Travel
+2021-05-14,444.02,Expense,Marketing
+2021-05-14,3349.98,Expense,Rent
+2021-05-15,4905.6,Expense,Utilities
+2021-05-16,626.96,Expense,Office Supplies
+2021-05-16,3180.09,Expense,Office Supplies
+2021-05-17,1431.15,Expense,Office Supplies
+2021-05-17,2549.26,Income,Investment Return
+2021-05-17,1302.25,Expense,Marketing
+2021-05-18,5495.32,Income,Grants
+2021-05-18,4287.68,Expense,Rent
+2021-05-19,822.74,Income,Service Revenue
+2021-05-20,2622.03,Expense,Travel
+2021-05-23,9960.34,Income,Service Revenue
+2021-05-23,2735.69,Income,Service Revenue
+2021-05-23,2522.4,Expense,Salaries
+2021-05-24,2924.72,Expense,Rent
+2021-05-24,3198.98,Expense,Travel
+2021-05-24,685.85,Income,Product Sales
+2021-05-25,2875.69,Expense,Travel
+2021-05-25,3809.21,Expense,Marketing
+2021-05-25,1571.63,Expense,Utilities
+2021-05-25,209.67,Expense,Marketing
+2021-05-26,3580.2,Expense,Office Supplies
+2021-05-27,481.72,Expense,Utilities
+2021-05-27,9655.58,Income,Investment Return
+2021-05-27,3434.55,Expense,Office Supplies
+2021-05-28,3756.61,Income,Product Sales
+2021-05-29,8649.21,Income,Investment Return
+2021-05-29,6257.17,Income,Service Revenue
+2021-05-29,4517.89,Expense,Salaries
+2021-05-29,1542.95,Expense,Utilities
+2021-05-30,2878.17,Expense,Rent
+2021-05-30,3544.61,Expense,Salaries
+2021-05-30,2666.16,Expense,Rent
+2021-05-30,4503.91,Income,Product Sales
+2021-05-30,9127.0,Income,Investment Return
+2021-05-31,334.27,Expense,Salaries
+2021-05-31,438.13,Expense,Salaries
+2021-05-31,713.73,Expense,Utilities
+2021-06-01,875.95,Expense,Office Supplies
+2021-06-01,4213.59,Income,Grants
+2021-06-02,1423.35,Expense,Travel
+2021-06-03,4999.25,Expense,Travel
+2021-06-03,2580.85,Expense,Utilities
+2021-06-04,3661.23,Income,Grants
+2021-06-04,599.97,Expense,Marketing
+2021-06-04,764.19,Expense,Travel
+2021-06-04,1390.35,Expense,Utilities
+2021-06-04,4390.91,Expense,Rent
+2021-06-05,1820.8,Expense,Office Supplies
+2021-06-05,4907.9,Income,Investment Return
+2021-06-06,7827.67,Income,Service Revenue
+2021-06-07,1051.14,Expense,Rent
+2021-06-07,2700.94,Income,Service Revenue
+2021-06-07,3828.59,Expense,Marketing
+2021-06-08,2978.37,Expense,Travel
+2021-06-08,5577.58,Income,Grants
+2021-06-09,1812.76,Expense,Rent
+2021-06-09,2923.98,Expense,Marketing
+2021-06-09,4365.68,Expense,Marketing
+2021-06-09,373.77,Expense,Salaries
+2021-06-09,2345.05,Expense,Marketing
+2021-06-10,4294.49,Expense,Travel
+2021-06-12,4997.35,Expense,Marketing
+2021-06-13,4737.55,Expense,Rent
+2021-06-14,379.46,Income,Product Sales
+2021-06-15,8436.86,Income,Service Revenue
+2021-06-15,4166.81,Expense,Office Supplies
+2021-06-17,1814.76,Expense,Rent
+2021-06-17,3344.7,Income,Service Revenue
+2021-06-18,4633.84,Income,Service Revenue
+2021-06-19,8727.74,Income,Service Revenue
+2021-06-19,2529.49,Expense,Utilities
+2021-06-20,6053.7,Income,Service Revenue
+2021-06-20,4533.04,Expense,Rent
+2021-06-20,5920.23,Income,Grants
+2021-06-21,7927.84,Income,Grants
+2021-06-23,1350.03,Expense,Travel
+2021-06-23,989.24,Income,Grants
+2021-06-24,205.36,Expense,Salaries
+2021-06-24,172.61,Income,Grants
+2021-06-25,4133.19,Expense,Utilities
+2021-06-25,3816.97,Expense,Marketing
+2021-06-26,3099.09,Expense,Marketing
+2021-06-26,4543.57,Expense,Utilities
+2021-06-29,2579.06,Expense,Travel
+2021-06-29,3502.94,Expense,Rent
+2021-06-29,8504.35,Income,Grants
+2021-06-29,2494.2,Income,Grants
+2021-06-30,1600.18,Expense,Utilities
+2021-06-30,6806.89,Income,Investment Return
+2021-07-01,2564.63,Expense,Marketing
+2021-07-01,3176.1,Expense,Rent
+2021-07-02,184.4,Expense,Marketing
+2021-07-03,4185.35,Expense,Rent
+2021-07-03,2023.49,Expense,Salaries
+2021-07-04,4065.71,Expense,Travel
+2021-07-04,4426.81,Income,Service Revenue
+2021-07-05,2690.05,Expense,Salaries
+2021-07-06,4292.47,Income,Grants
+2021-07-06,1434.61,Expense,Office Supplies
+2021-07-07,1511.3,Expense,Utilities
+2021-07-07,3707.08,Expense,Office Supplies
+2021-07-07,2367.18,Expense,Travel
+2021-07-07,701.49,Expense,Rent
+2021-07-10,281.82,Expense,Travel
+2021-07-10,1025.17,Expense,Utilities
+2021-07-10,4497.42,Income,Investment Return
+2021-07-12,974.85,Expense,Rent
+2021-07-12,4685.67,Income,Product Sales
+2021-07-13,3167.46,Expense,Rent
+2021-07-14,687.44,Expense,Office Supplies
+2021-07-14,9955.56,Income,Grants
+2021-07-14,527.42,Expense,Office Supplies
+2021-07-16,1299.01,Expense,Marketing
+2021-07-16,979.6,Expense,Rent
+2021-07-16,600.06,Expense,Salaries
+2021-07-16,4140.94,Expense,Salaries
+2021-07-17,3986.49,Expense,Salaries
+2021-07-17,3741.54,Expense,Office Supplies
+2021-07-17,4276.93,Expense,Salaries
+2021-07-18,6182.56,Income,Investment Return
+2021-07-19,2482.72,Expense,Office Supplies
+2021-07-19,7013.55,Income,Grants
+2021-07-19,1548.72,Expense,Marketing
+2021-07-20,4249.45,Income,Product Sales
+2021-07-22,853.95,Expense,Marketing
+2021-07-23,3278.02,Expense,Office Supplies
+2021-07-23,6253.04,Income,Service Revenue
+2021-07-23,626.04,Expense,Utilities
+2021-07-23,7099.45,Income,Product Sales
+2021-07-24,3893.03,Expense,Travel
+2021-07-25,883.51,Expense,Salaries
+2021-07-25,4605.25,Income,Product Sales
+2021-07-26,3545.55,Expense,Rent
+2021-07-27,3542.98,Expense,Utilities
+2021-07-27,2471.96,Expense,Office Supplies
+2021-07-28,705.92,Expense,Office Supplies
+2021-07-28,1259.12,Expense,Salaries
+2021-07-28,1113.43,Income,Grants
+2021-07-28,2733.38,Income,Product Sales
+2021-07-29,676.4,Expense,Rent
+2021-07-30,3948.81,Income,Product Sales
+2021-07-31,3503.99,Expense,Travel
+2021-07-31,2611.84,Expense,Utilities
+2021-07-31,4532.56,Expense,Travel
+2021-07-31,4015.2,Expense,Utilities
+2021-08-01,1033.37,Expense,Rent
+2021-08-01,3754.77,Expense,Travel
+2021-08-02,4690.37,Expense,Marketing
+2021-08-03,4811.82,Expense,Office Supplies
+2021-08-03,6530.48,Income,Product Sales
+2021-08-03,3596.15,Expense,Utilities
+2021-08-03,1048.77,Expense,Rent
+2021-08-04,6637.32,Income,Investment Return
+2021-08-05,3431.33,Expense,Marketing
+2021-08-06,602.95,Income,Product Sales
+2021-08-06,3752.74,Expense,Rent
+2021-08-07,3456.81,Expense,Salaries
+2021-08-07,735.23,Expense,Rent
+2021-08-08,5584.4,Income,Grants
+2021-08-09,108.21,Expense,Utilities
+2021-08-09,3385.29,Expense,Salaries
+2021-08-10,5265.16,Income,Service Revenue
+2021-08-10,2009.42,Income,Service Revenue
+2021-08-10,2872.35,Expense,Utilities
+2021-08-10,2350.54,Expense,Marketing
+2021-08-10,8244.76,Income,Grants
+2021-08-11,2601.03,Expense,Salaries
+2021-08-11,6613.7,Income,Service Revenue
+2021-08-11,6096.96,Income,Product Sales
+2021-08-11,2218.69,Expense,Utilities
+2021-08-12,5379.75,Income,Investment Return
+2021-08-12,470.23,Income,Investment Return
+2021-08-13,2705.17,Expense,Rent
+2021-08-14,2135.42,Expense,Salaries
+2021-08-14,3584.1,Income,Service Revenue
+2021-08-15,2307.47,Expense,Office Supplies
+2021-08-15,8754.27,Income,Grants
+2021-08-15,1530.35,Expense,Utilities
+2021-08-15,672.67,Expense,Travel
+2021-08-16,9791.3,Income,Product Sales
+2021-08-16,3447.93,Expense,Rent
+2021-08-16,9612.21,Income,Product Sales
+2021-08-16,4250.33,Expense,Utilities
+2021-08-17,4854.91,Income,Product Sales
+2021-08-18,713.45,Expense,Office Supplies
+2021-08-18,333.56,Income,Grants
+2021-08-20,5612.7,Income,Service Revenue
+2021-08-20,3125.13,Expense,Salaries
+2021-08-20,1324.54,Income,Investment Return
+2021-08-20,3335.97,Expense,Travel
+2021-08-20,3728.09,Expense,Utilities
+2021-08-23,4493.81,Expense,Marketing
+2021-08-23,1803.65,Income,Investment Return
+2021-08-24,3595.0,Expense,Travel
+2021-08-24,3154.53,Expense,Rent
+2021-08-26,4271.2,Expense,Rent
+2021-08-26,5214.61,Income,Grants
+2021-08-27,3241.25,Expense,Rent
+2021-08-27,6385.8,Income,Grants
+2021-08-29,2877.78,Expense,Salaries
+2021-08-29,79.35,Expense,Travel
+2021-08-30,843.79,Expense,Utilities
+2021-08-31,9635.27,Income,Investment Return
+2021-08-31,3619.39,Expense,Office Supplies
+2021-09-01,3083.02,Expense,Rent
+2021-09-01,1455.06,Expense,Marketing
+2021-09-01,3451.82,Expense,Utilities
+2021-09-03,2734.47,Income,Product Sales
+2021-09-04,1111.25,Expense,Travel
+2021-09-04,1057.83,Expense,Travel
+2021-09-04,4101.66,Expense,Office Supplies
+2021-09-05,1563.74,Income,Investment Return
+2021-09-06,4415.42,Expense,Office Supplies
+2021-09-07,1919.47,Income,Investment Return
+2021-09-08,4798.17,Expense,Travel
+2021-09-09,5411.06,Income,Investment Return
+2021-09-09,4248.24,Expense,Marketing
+2021-09-10,7489.56,Income,Grants
+2021-09-11,297.42,Expense,Marketing
+2021-09-11,4538.63,Income,Service Revenue
+2021-09-12,4989.93,Expense,Travel
+2021-09-14,2331.74,Expense,Travel
+2021-09-14,414.48,Expense,Marketing
+2021-09-15,1065.29,Expense,Office Supplies
+2021-09-15,1150.64,Income,Grants
+2021-09-15,3160.97,Expense,Office Supplies
+2021-09-15,1208.92,Income,Investment Return
+2021-09-16,3787.57,Expense,Rent
+2021-09-16,3004.88,Expense,Office Supplies
+2021-09-17,1594.07,Expense,Utilities
+2021-09-18,2628.0,Income,Grants
+2021-09-18,3343.31,Expense,Utilities
+2021-09-19,2309.03,Expense,Rent
+2021-09-19,2634.0,Expense,Salaries
+2021-09-20,3110.37,Expense,Rent
+2021-09-20,880.33,Expense,Rent
+2021-09-20,3679.11,Expense,Salaries
+2021-09-20,2859.5,Expense,Utilities
+2021-09-21,5154.15,Income,Grants
+2021-09-21,645.4,Expense,Marketing
+2021-09-22,9731.16,Income,Service Revenue
+2021-09-23,7983.23,Income,Product Sales
+2021-09-23,2549.58,Expense,Travel
+2021-09-24,4515.76,Expense,Travel
+2021-09-24,7043.5,Income,Service Revenue
+2021-09-25,4182.43,Income,Grants
+2021-09-25,1995.84,Expense,Office Supplies
+2021-09-25,1906.33,Income,Service Revenue
+2021-09-25,556.02,Income,Service Revenue
+2021-09-25,1891.75,Expense,Marketing
+2021-09-26,612.73,Expense,Office Supplies
+2021-09-26,5301.91,Income,Grants
+2021-09-27,3109.45,Expense,Utilities
+2021-09-28,2147.3,Income,Service Revenue
+2021-09-28,999.4,Expense,Utilities
+2021-09-28,2380.91,Income,Grants
+2021-09-29,3457.05,Expense,Utilities
+2021-09-30,1976.24,Income,Investment Return
+2021-09-30,592.23,Expense,Utilities
+2021-10-01,3509.61,Expense,Travel
+2021-10-01,1982.57,Expense,Travel
+2021-10-02,2551.61,Expense,Marketing
+2021-10-02,4221.9,Expense,Utilities
+2021-10-03,3055.08,Income,Investment Return
+2021-10-03,6938.19,Income,Service Revenue
+2021-10-04,4127.77,Expense,Rent
+2021-10-05,670.75,Expense,Rent
+2021-10-06,2101.28,Income,Grants
+2021-10-07,2523.7,Expense,Marketing
+2021-10-07,1224.05,Income,Investment Return
+2021-10-07,1950.72,Expense,Rent
+2021-10-08,3025.13,Income,Grants
+2021-10-08,2087.48,Expense,Utilities
+2021-10-09,411.98,Income,Service Revenue
+2021-10-09,1358.25,Income,Service Revenue
+2021-10-10,5933.22,Income,Product Sales
+2021-10-11,2046.35,Expense,Marketing
+2021-10-11,4986.08,Income,Grants
+2021-10-13,1232.77,Expense,Rent
+2021-10-14,2574.64,Expense,Salaries
+2021-10-15,2149.24,Income,Investment Return
+2021-10-15,92.75,Expense,Marketing
+2021-10-17,4079.06,Expense,Marketing
+2021-10-17,5170.93,Income,Investment Return
+2021-10-18,1721.54,Expense,Utilities
+2021-10-18,8057.18,Income,Service Revenue
+2021-10-19,4348.49,Expense,Salaries
+2021-10-20,2213.89,Expense,Salaries
+2021-10-21,4776.01,Expense,Salaries
+2021-10-21,864.13,Expense,Salaries
+2021-10-22,7327.02,Income,Investment Return
+2021-10-22,1120.94,Expense,Rent
+2021-10-22,9155.48,Income,Grants
+2021-10-22,148.2,Income,Service Revenue
+2021-10-22,5518.51,Income,Service Revenue
+2021-10-23,2075.14,Expense,Office Supplies
+2021-10-23,4461.53,Expense,Marketing
+2021-10-23,2845.87,Expense,Travel
+2021-10-23,365.99,Income,Grants
+2021-10-23,2171.31,Expense,Rent
+2021-10-23,8465.21,Income,Service Revenue
+2021-10-24,2247.81,Expense,Travel
+2021-10-24,4670.65,Expense,Travel
+2021-10-24,862.63,Expense,Utilities
+2021-10-25,2083.88,Expense,Rent
+2021-10-25,3383.41,Income,Investment Return
+2021-10-25,254.35,Expense,Utilities
+2021-10-25,1922.63,Expense,Travel
+2021-10-25,9375.59,Income,Service Revenue
+2021-10-25,8040.18,Income,Investment Return
+2021-10-26,699.12,Expense,Rent
+2021-10-26,3117.46,Expense,Rent
+2021-10-27,1098.56,Expense,Office Supplies
+2021-10-27,1488.83,Expense,Salaries
+2021-10-27,4815.59,Income,Service Revenue
+2021-10-28,1903.56,Expense,Salaries
+2021-10-29,2820.9,Expense,Travel
+2021-10-30,1199.25,Expense,Marketing
+2021-10-31,9859.46,Income,Grants
+2021-10-31,1303.74,Expense,Marketing
+2021-10-31,7050.62,Income,Investment Return
+2021-11-02,2403.1,Income,Investment Return
+2021-11-02,7754.36,Income,Investment Return
+2021-11-02,4329.17,Expense,Salaries
+2021-11-02,2077.27,Expense,Utilities
+2021-11-02,1343.59,Income,Service Revenue
+2021-11-02,2167.43,Expense,Salaries
+2021-11-03,4848.29,Income,Service Revenue
+2021-11-03,6749.44,Income,Grants
+2021-11-04,2247.06,Expense,Utilities
+2021-11-05,640.57,Expense,Utilities
+2021-11-06,3187.52,Expense,Marketing
+2021-11-06,4434.78,Expense,Salaries
+2021-11-06,3533.96,Expense,Marketing
+2021-11-07,1077.18,Expense,Utilities
+2021-11-08,6200.21,Income,Product Sales
+2021-11-12,1525.93,Expense,Office Supplies
+2021-11-12,4042.43,Expense,Salaries
+2021-11-12,4973.02,Expense,Marketing
+2021-11-12,7280.34,Income,Grants
+2021-11-13,6210.47,Income,Service Revenue
+2021-11-14,4570.5,Income,Grants
+2021-11-14,91.37,Expense,Utilities
+2021-11-15,903.09,Expense,Office Supplies
+2021-11-15,4904.35,Expense,Utilities
+2021-11-15,1169.49,Income,Service Revenue
+2021-11-15,4049.79,Expense,Utilities
+2021-11-16,5922.13,Income,Grants
+2021-11-16,4325.22,Income,Product Sales
+2021-11-16,39.72,Expense,Rent
+2021-11-17,4823.15,Expense,Rent
+2021-11-17,1830.95,Expense,Marketing
+2021-11-17,1389.62,Expense,Salaries
+2021-11-17,4376.9,Income,Service Revenue
+2021-11-18,3945.24,Expense,Rent
+2021-11-18,9392.78,Income,Service Revenue
+2021-11-18,638.05,Income,Product Sales
+2021-11-19,791.19,Expense,Office Supplies
+2021-11-19,1644.89,Expense,Utilities
+2021-11-19,8514.47,Income,Investment Return
+2021-11-20,1057.22,Expense,Office Supplies
+2021-11-20,176.89,Income,Investment Return
+2021-11-20,337.15,Expense,Marketing
+2021-11-20,8293.98,Income,Service Revenue
+2021-11-20,3354.73,Income,Service Revenue
+2021-11-21,3560.28,Income,Grants
+2021-11-21,4509.55,Income,Product Sales
+2021-11-22,581.96,Expense,Rent
+2021-11-23,3065.61,Income,Grants
+2021-11-23,1060.48,Income,Product Sales
+2021-11-23,3359.38,Income,Grants
+2021-11-25,5022.57,Income,Product Sales
+2021-11-26,603.45,Income,Investment Return
+2021-11-27,888.09,Income,Grants
+2021-11-27,9222.98,Income,Investment Return
+2021-11-28,2142.96,Expense,Utilities
+2021-11-28,3738.08,Expense,Rent
+2021-11-28,3163.32,Expense,Salaries
+2021-11-28,4317.35,Expense,Marketing
+2021-11-29,3409.18,Expense,Travel
+2021-11-29,3328.47,Income,Product Sales
+2021-11-29,453.8,Expense,Marketing
+2021-11-30,154.86,Expense,Rent
+2021-11-30,6702.96,Income,Service Revenue
+2021-11-30,702.93,Income,Grants
+2021-11-30,2380.83,Income,Grants
+2021-11-30,6237.69,Income,Service Revenue
+2021-11-30,4919.85,Expense,Salaries
+2021-11-30,536.11,Expense,Utilities
+2021-12-02,845.48,Income,Investment Return
+2021-12-03,8813.53,Income,Investment Return
+2021-12-03,3475.38,Income,Product Sales
+2021-12-03,992.08,Expense,Rent
+2021-12-04,9070.4,Income,Service Revenue
+2021-12-04,1557.55,Income,Investment Return
+2021-12-04,1340.26,Expense,Salaries
+2021-12-04,287.41,Expense,Rent
+2021-12-05,2760.75,Expense,Travel
+2021-12-05,8255.09,Income,Grants
+2021-12-07,2894.54,Expense,Salaries
+2021-12-08,3126.24,Expense,Utilities
+2021-12-09,1270.56,Income,Investment Return
+2021-12-09,3694.64,Expense,Travel
+2021-12-09,1135.14,Expense,Travel
+2021-12-10,2695.96,Expense,Marketing
+2021-12-10,835.91,Income,Grants
+2021-12-10,3084.95,Expense,Travel
+2021-12-10,615.26,Expense,Office Supplies
+2021-12-10,3370.88,Income,Investment Return
+2021-12-11,2661.24,Income,Investment Return
+2021-12-11,656.5,Expense,Utilities
+2021-12-12,2136.27,Expense,Salaries
+2021-12-13,3964.13,Expense,Travel
+2021-12-14,1244.03,Income,Grants
+2021-12-14,7278.6,Income,Service Revenue
+2021-12-14,7994.2,Income,Service Revenue
+2021-12-14,3405.63,Income,Service Revenue
+2021-12-14,4313.14,Expense,Rent
+2021-12-15,4978.18,Expense,Office Supplies
+2021-12-15,2103.09,Expense,Marketing
+2021-12-15,1926.86,Expense,Salaries
+2021-12-16,2281.24,Income,Product Sales
+2021-12-16,4973.98,Expense,Marketing
+2021-12-17,3037.51,Expense,Utilities
+2021-12-18,678.79,Expense,Office Supplies
+2021-12-19,1022.29,Expense,Office Supplies
+2021-12-20,203.89,Income,Product Sales
+2021-12-20,4268.58,Expense,Marketing
+2021-12-21,4287.04,Expense,Salaries
+2021-12-21,304.33,Expense,Salaries
+2021-12-22,235.25,Income,Service Revenue
+2021-12-23,4761.44,Expense,Marketing
+2021-12-24,1866.32,Income,Grants
+2021-12-25,3769.18,Expense,Marketing
+2021-12-25,1491.02,Income,Investment Return
+2021-12-25,4061.63,Expense,Marketing
+2021-12-26,8996.81,Income,Investment Return
+2021-12-26,1704.39,Expense,Utilities
+2021-12-26,2520.0,Expense,Salaries
+2021-12-26,98.94,Expense,Salaries
+2021-12-26,2402.11,Expense,Travel
+2021-12-27,8052.12,Income,Service Revenue
+2021-12-27,5387.98,Income,Product Sales
+2021-12-27,5466.07,Income,Product Sales
+2021-12-27,4320.13,Expense,Travel
+2021-12-27,33.49,Expense,Salaries
+2021-12-29,4864.51,Expense,Utilities
+2021-12-29,6158.88,Income,Product Sales
+2021-12-29,988.78,Expense,Rent
+2021-12-30,3298.69,Income,Service Revenue
+2021-12-30,1443.78,Expense,Travel
+2021-12-31,4442.63,Income,Investment Return
+2021-12-31,8410.59,Income,Service Revenue
+2022-01-01,3572.7,Income,Product Sales
+2022-01-01,5393.14,Income,Investment Return
+2022-01-01,9919.7,Income,Product Sales
+2022-01-02,2380.55,Expense,Marketing
+2022-01-03,2328.84,Expense,Salaries
+2022-01-04,4888.4,Expense,Salaries
+2022-01-04,5471.48,Income,Grants
+2022-01-05,3513.22,Income,Grants
+2022-01-05,177.98,Expense,Utilities
+2022-01-05,2582.16,Expense,Marketing
+2022-01-07,5890.82,Income,Service Revenue
+2022-01-07,4149.17,Expense,Rent
+2022-01-07,2278.89,Income,Investment Return
+2022-01-07,1114.91,Expense,Marketing
+2022-01-08,4824.28,Income,Service Revenue
+2022-01-08,2776.72,Expense,Marketing
+2022-01-08,1692.5,Expense,Rent
+2022-01-09,9545.02,Income,Investment Return
+2022-01-09,4032.7,Expense,Marketing
+2022-01-10,4433.72,Expense,Salaries
+2022-01-11,653.58,Expense,Utilities
+2022-01-12,3912.52,Income,Grants
+2022-01-12,3235.07,Expense,Marketing
+2022-01-13,2673.58,Expense,Marketing
+2022-01-13,7370.07,Income,Investment Return
+2022-01-13,4901.7,Expense,Utilities
+2022-01-13,4807.84,Expense,Rent
+2022-01-15,9544.06,Income,Grants
+2022-01-15,903.21,Expense,Utilities
+2022-01-17,4343.48,Expense,Office Supplies
+2022-01-17,4227.09,Expense,Travel
+2022-01-17,3103.64,Expense,Rent
+2022-01-17,4293.87,Expense,Salaries
+2022-01-18,6260.8,Income,Grants
+2022-01-18,2382.69,Expense,Travel
+2022-01-19,3308.73,Expense,Travel
+2022-01-19,4150.34,Expense,Salaries
+2022-01-19,1588.75,Expense,Utilities
+2022-01-20,4680.41,Expense,Rent
+2022-01-20,7041.33,Income,Service Revenue
+2022-01-20,2659.71,Expense,Salaries
+2022-01-21,9518.83,Income,Service Revenue
+2022-01-21,9681.25,Income,Product Sales
+2022-01-21,967.34,Expense,Marketing
+2022-01-22,3901.24,Expense,Travel
+2022-01-23,1461.42,Expense,Salaries
+2022-01-23,1421.34,Expense,Travel
+2022-01-24,1309.63,Expense,Utilities
+2022-01-24,4143.32,Expense,Rent
+2022-01-24,1104.29,Expense,Marketing
+2022-01-26,3039.8,Expense,Utilities
+2022-01-27,116.85,Expense,Office Supplies
+2022-01-28,6689.94,Income,Grants
+2022-01-28,181.61,Expense,Salaries
+2022-01-28,922.24,Expense,Rent
+2022-01-28,1512.35,Expense,Utilities
+2022-01-28,3533.34,Expense,Rent
+2022-01-28,3488.88,Expense,Salaries
+2022-01-30,5732.93,Income,Grants
+2022-01-30,2498.35,Income,Investment Return
+2022-01-30,4334.93,Expense,Utilities
+2022-01-30,6798.78,Income,Grants
+2022-01-30,2940.83,Expense,Utilities
+2022-01-31,4632.5,Expense,Rent
+2022-02-01,1121.84,Income,Product Sales
+2022-02-01,1941.02,Income,Service Revenue
+2022-02-01,2755.68,Income,Product Sales
+2022-02-01,3735.97,Expense,Office Supplies
+2022-02-01,893.16,Expense,Utilities
+2022-02-02,2932.29,Income,Investment Return
+2022-02-02,2528.37,Expense,Utilities
+2022-02-02,4371.9,Expense,Office Supplies
+2022-02-02,3700.68,Expense,Utilities
+2022-02-02,604.65,Income,Service Revenue
+2022-02-04,3419.34,Expense,Office Supplies
+2022-02-05,2683.09,Income,Grants
+2022-02-05,3415.29,Expense,Travel
+2022-02-05,2080.12,Expense,Office Supplies
+2022-02-05,4189.44,Expense,Travel
+2022-02-06,2155.84,Expense,Rent
+2022-02-07,1523.01,Expense,Marketing
+2022-02-07,7872.33,Income,Product Sales
+2022-02-08,9685.27,Income,Grants
+2022-02-08,2287.81,Expense,Travel
+2022-02-08,1955.38,Expense,Marketing
+2022-02-08,7376.76,Income,Grants
+2022-02-08,6389.12,Income,Service Revenue
+2022-02-08,9323.43,Income,Service Revenue
+2022-02-09,2067.8,Expense,Rent
+2022-02-09,712.23,Expense,Marketing
+2022-02-10,258.61,Expense,Marketing
+2022-02-11,1099.32,Income,Investment Return
+2022-02-12,24.63,Expense,Marketing
+2022-02-12,1030.21,Expense,Travel
+2022-02-13,684.06,Expense,Salaries
+2022-02-14,2087.63,Income,Grants
+2022-02-14,6756.25,Income,Grants
+2022-02-14,9239.42,Income,Service Revenue
+2022-02-14,428.19,Expense,Salaries
+2022-02-15,3527.59,Expense,Utilities
+2022-02-15,1870.3,Expense,Salaries
+2022-02-16,1082.37,Income,Grants
+2022-02-16,7157.54,Income,Product Sales
+2022-02-16,1466.0,Expense,Salaries
+2022-02-17,3432.17,Expense,Travel
+2022-02-17,8706.59,Income,Grants
+2022-02-18,4678.18,Expense,Utilities
+2022-02-18,4252.87,Income,Grants
+2022-02-19,112.29,Expense,Office Supplies
+2022-02-19,2752.63,Income,Service Revenue
+2022-02-19,4077.67,Expense,Marketing
+2022-02-19,1842.65,Income,Grants
+2022-02-21,2043.96,Expense,Office Supplies
+2022-02-21,3592.52,Expense,Marketing
+2022-02-22,3222.44,Expense,Travel
+2022-02-22,2684.13,Expense,Utilities
+2022-02-23,4185.92,Expense,Travel
+2022-02-23,1293.6,Expense,Utilities
+2022-02-23,8265.59,Income,Service Revenue
+2022-02-23,9458.54,Income,Product Sales
+2022-02-25,6016.56,Income,Product Sales
+2022-02-27,7481.72,Income,Product Sales
+2022-02-27,2212.1,Expense,Marketing
+2022-02-28,1580.07,Expense,Office Supplies
+2022-02-28,5081.47,Income,Product Sales
+2022-03-01,776.39,Expense,Utilities
+2022-03-02,3097.3,Expense,Travel
+2022-03-02,8547.96,Income,Product Sales
+2022-03-02,4959.32,Expense,Travel
+2022-03-02,2051.32,Expense,Travel
+2022-03-03,1130.59,Expense,Office Supplies
+2022-03-03,4567.72,Income,Service Revenue
+2022-03-03,4911.64,Expense,Utilities
+2022-03-04,2737.43,Expense,Travel
+2022-03-04,1902.41,Expense,Office Supplies
+2022-03-04,1242.84,Expense,Salaries
+2022-03-04,281.36,Expense,Marketing
+2022-03-05,1432.37,Expense,Marketing
+2022-03-05,6290.77,Income,Grants
+2022-03-05,2841.01,Income,Grants
+2022-03-06,2103.36,Expense,Rent
+2022-03-06,4589.36,Expense,Marketing
+2022-03-07,4109.29,Expense,Marketing
+2022-03-07,2818.08,Expense,Utilities
+2022-03-07,9410.92,Income,Investment Return
+2022-03-08,2399.16,Expense,Salaries
+2022-03-08,4043.17,Expense,Travel
+2022-03-08,3963.62,Expense,Travel
+2022-03-08,3502.71,Expense,Rent
+2022-03-10,3046.74,Expense,Rent
+2022-03-10,3351.02,Income,Investment Return
+2022-03-10,4069.05,Expense,Utilities
+2022-03-11,1318.1,Expense,Marketing
+2022-03-11,2579.84,Expense,Utilities
+2022-03-11,2057.24,Expense,Salaries
+2022-03-11,4915.66,Expense,Marketing
+2022-03-12,5504.64,Income,Grants
+2022-03-12,2477.53,Expense,Salaries
+2022-03-12,2152.36,Expense,Office Supplies
+2022-03-14,3649.77,Expense,Salaries
+2022-03-15,4320.93,Expense,Travel
+2022-03-15,1094.53,Income,Product Sales
+2022-03-15,839.85,Expense,Travel
+2022-03-15,4477.48,Expense,Rent
+2022-03-15,4228.16,Expense,Travel
+2022-03-15,3982.39,Expense,Rent
+2022-03-16,5130.6,Income,Grants
+2022-03-16,3370.32,Expense,Rent
+2022-03-16,4587.76,Expense,Rent
+2022-03-16,3657.85,Expense,Marketing
+2022-03-17,640.74,Expense,Utilities
+2022-03-17,1166.99,Expense,Marketing
+2022-03-19,4169.29,Expense,Office Supplies
+2022-03-19,7616.47,Income,Product Sales
+2022-03-22,3960.6,Expense,Travel
+2022-03-24,3757.98,Expense,Marketing
+2022-03-24,1464.42,Expense,Salaries
+2022-03-24,1034.7,Expense,Marketing
+2022-03-24,1707.29,Expense,Rent
+2022-03-25,2817.62,Income,Product Sales
+2022-03-25,3325.44,Expense,Office Supplies
+2022-03-25,3601.0,Expense,Utilities
+2022-03-25,1699.59,Expense,Travel
+2022-03-26,772.94,Income,Grants
+2022-03-26,3098.02,Income,Service Revenue
+2022-03-26,1392.0,Income,Product Sales
+2022-03-26,1144.68,Expense,Office Supplies
+2022-03-26,2259.39,Expense,Salaries
+2022-03-26,4012.39,Expense,Office Supplies
+2022-03-27,9526.22,Income,Product Sales
+2022-03-27,1628.49,Expense,Rent
+2022-03-29,2294.52,Expense,Office Supplies
+2022-03-30,2925.46,Expense,Salaries
+2022-03-30,2323.8,Expense,Rent
+2022-03-31,2575.69,Expense,Rent
+2022-03-31,3876.61,Expense,Travel
+2022-04-01,2277.27,Expense,Rent
+2022-04-01,4797.99,Income,Service Revenue
+2022-04-01,3013.43,Expense,Office Supplies
+2022-04-01,4919.0,Expense,Utilities
+2022-04-01,2867.51,Expense,Salaries
+2022-04-02,610.93,Expense,Utilities
+2022-04-02,4560.39,Expense,Rent
+2022-04-02,4031.9,Expense,Office Supplies
+2022-04-02,6570.51,Income,Product Sales
+2022-04-03,4887.93,Expense,Travel
+2022-04-03,3725.26,Expense,Utilities
+2022-04-04,865.4,Expense,Office Supplies
+2022-04-04,167.29,Income,Service Revenue
+2022-04-05,539.99,Expense,Rent
+2022-04-05,1104.21,Expense,Office Supplies
+2022-04-06,139.73,Expense,Salaries
+2022-04-06,3595.3,Expense,Travel
+2022-04-07,596.49,Expense,Rent
+2022-04-07,440.59,Income,Service Revenue
+2022-04-07,2956.47,Expense,Travel
+2022-04-07,3566.97,Income,Grants
+2022-04-08,8774.31,Income,Grants
+2022-04-10,4493.34,Income,Product Sales
+2022-04-10,950.92,Expense,Marketing
+2022-04-10,3495.36,Expense,Utilities
+2022-04-10,1941.98,Expense,Utilities
+2022-04-11,2617.19,Income,Service Revenue
+2022-04-12,413.07,Expense,Marketing
+2022-04-12,4619.85,Expense,Travel
+2022-04-13,1949.51,Expense,Salaries
+2022-04-14,8168.65,Income,Product Sales
+2022-04-15,2496.32,Expense,Salaries
+2022-04-15,865.97,Expense,Marketing
+2022-04-15,1328.1,Expense,Utilities
+2022-04-16,1299.43,Expense,Marketing
+2022-04-16,136.65,Income,Product Sales
+2022-04-16,5181.28,Income,Product Sales
+2022-04-17,4325.9,Income,Investment Return
+2022-04-17,4431.85,Expense,Office Supplies
+2022-04-17,453.61,Expense,Office Supplies
+2022-04-17,1732.85,Income,Service Revenue
+2022-04-20,5274.82,Income,Grants
+2022-04-20,6816.08,Income,Investment Return
+2022-04-21,4552.88,Expense,Rent
+2022-04-21,6078.81,Income,Grants
+2022-04-21,6046.01,Income,Product Sales
+2022-04-22,4018.2,Income,Grants
+2022-04-23,4622.5,Income,Investment Return
+2022-04-23,3483.31,Income,Product Sales
+2022-04-24,3625.32,Income,Investment Return
+2022-04-24,4430.09,Expense,Utilities
+2022-04-25,9563.44,Income,Grants
+2022-04-25,3030.78,Expense,Rent
+2022-04-26,4280.64,Expense,Marketing
+2022-04-27,2639.89,Expense,Office Supplies
+2022-04-28,6292.23,Income,Product Sales
+2022-04-28,4663.09,Expense,Office Supplies
+2022-04-28,4933.08,Expense,Utilities
+2022-04-29,4971.71,Income,Investment Return
+2022-04-30,3063.48,Expense,Travel
+2022-04-30,305.41,Expense,Utilities
+2022-04-30,5868.02,Income,Service Revenue
+2022-05-01,1544.11,Expense,Utilities
+2022-05-02,266.98,Expense,Office Supplies
+2022-05-02,3678.85,Expense,Office Supplies
+2022-05-02,3656.05,Expense,Utilities
+2022-05-02,4224.69,Expense,Office Supplies
+2022-05-03,1557.84,Expense,Rent
+2022-05-03,6306.99,Income,Service Revenue
+2022-05-03,4671.21,Expense,Salaries
+2022-05-04,565.03,Income,Product Sales
+2022-05-05,2126.72,Income,Grants
+2022-05-05,1496.3,Expense,Marketing
+2022-05-06,1500.86,Expense,Marketing
+2022-05-06,3651.68,Income,Investment Return
+2022-05-08,4833.77,Income,Service Revenue
+2022-05-08,9332.76,Income,Investment Return
+2022-05-08,3912.55,Income,Product Sales
+2022-05-09,1244.5,Income,Grants
+2022-05-10,6397.08,Income,Grants
+2022-05-10,4706.42,Expense,Travel
+2022-05-11,9763.25,Income,Investment Return
+2022-05-11,933.45,Expense,Office Supplies
+2022-05-13,1212.41,Income,Grants
+2022-05-13,2998.09,Expense,Office Supplies
+2022-05-14,1636.55,Expense,Marketing
+2022-05-15,4919.98,Expense,Office Supplies
+2022-05-15,4454.4,Expense,Salaries
+2022-05-15,4501.81,Income,Grants
+2022-05-16,3630.06,Income,Investment Return
+2022-05-16,4612.52,Expense,Travel
+2022-05-16,4071.77,Expense,Rent
+2022-05-16,2308.55,Income,Investment Return
+2022-05-17,1141.67,Income,Service Revenue
+2022-05-18,3949.7,Expense,Rent
+2022-05-18,8601.74,Income,Product Sales
+2022-05-20,6869.5,Income,Investment Return
+2022-05-20,3800.7,Income,Investment Return
+2022-05-20,8501.2,Income,Investment Return
+2022-05-21,7940.16,Income,Grants
+2022-05-21,3244.34,Expense,Travel
+2022-05-21,2298.07,Expense,Travel
+2022-05-22,1505.74,Income,Service Revenue
+2022-05-22,1065.39,Expense,Utilities
+2022-05-22,8234.25,Income,Service Revenue
+2022-05-23,3106.34,Expense,Rent
+2022-05-23,8509.75,Income,Investment Return
+2022-05-24,1510.26,Expense,Marketing
+2022-05-25,1894.55,Expense,Utilities
+2022-05-25,2815.96,Expense,Office Supplies
+2022-05-25,195.37,Expense,Travel
+2022-05-26,4898.43,Income,Grants
+2022-05-26,3692.3,Expense,Utilities
+2022-05-26,9041.91,Income,Product Sales
+2022-05-27,75.17,Expense,Salaries
+2022-05-28,3728.79,Expense,Utilities
+2022-05-28,662.85,Expense,Office Supplies
+2022-05-28,762.72,Expense,Rent
+2022-05-30,4394.51,Expense,Office Supplies
+2022-05-30,7407.87,Income,Product Sales
+2022-05-30,3069.13,Expense,Travel
+2022-06-01,2152.21,Expense,Utilities
+2022-06-01,6673.93,Income,Product Sales
+2022-06-01,4713.01,Expense,Travel
+2022-06-01,2447.17,Expense,Travel
+2022-06-02,130.65,Expense,Salaries
+2022-06-02,1063.09,Expense,Salaries
+2022-06-02,2280.55,Expense,Office Supplies
+2022-06-03,4559.34,Expense,Rent
+2022-06-03,4743.63,Expense,Rent
+2022-06-04,903.53,Income,Investment Return
+2022-06-04,1274.0,Expense,Salaries
+2022-06-04,8881.72,Income,Investment Return
+2022-06-05,3192.69,Expense,Office Supplies
+2022-06-05,4740.02,Expense,Salaries
+2022-06-05,1945.75,Expense,Office Supplies
+2022-06-06,1931.19,Expense,Travel
+2022-06-06,9933.33,Income,Grants
+2022-06-07,703.39,Expense,Salaries
+2022-06-09,3167.96,Expense,Utilities
+2022-06-09,2444.4,Expense,Marketing
+2022-06-09,1333.69,Income,Product Sales
+2022-06-09,874.55,Expense,Travel
+2022-06-10,55.07,Expense,Salaries
+2022-06-10,2517.2,Income,Service Revenue
+2022-06-10,251.57,Income,Product Sales
+2022-06-11,2098.61,Expense,Rent
+2022-06-12,2472.49,Income,Investment Return
+2022-06-13,3475.44,Expense,Travel
+2022-06-13,7255.57,Income,Investment Return
+2022-06-13,2596.23,Income,Grants
+2022-06-14,7378.99,Income,Investment Return
+2022-06-14,1171.77,Expense,Office Supplies
+2022-06-15,1847.47,Expense,Office Supplies
+2022-06-15,2028.26,Income,Investment Return
+2022-06-16,2627.84,Expense,Rent
+2022-06-16,719.92,Expense,Utilities
+2022-06-17,4811.27,Expense,Office Supplies
+2022-06-17,2655.75,Expense,Travel
+2022-06-17,5967.69,Income,Investment Return
+2022-06-18,6746.92,Income,Grants
+2022-06-18,2367.12,Expense,Utilities
+2022-06-18,3569.07,Expense,Marketing
+2022-06-18,8941.83,Income,Product Sales
+2022-06-18,1590.77,Expense,Utilities
+2022-06-19,4590.37,Income,Investment Return
+2022-06-20,3988.37,Expense,Marketing
+2022-06-20,1385.12,Expense,Salaries
+2022-06-21,4607.3,Expense,Marketing
+2022-06-21,4595.36,Expense,Marketing
+2022-06-21,355.54,Expense,Marketing
+2022-06-23,1425.92,Expense,Travel
+2022-06-24,9735.28,Income,Investment Return
+2022-06-24,2923.68,Expense,Office Supplies
+2022-06-25,4555.11,Expense,Salaries
+2022-06-27,2697.17,Expense,Marketing
+2022-06-27,23.72,Expense,Salaries
+2022-06-27,7791.25,Income,Service Revenue
+2022-06-28,7434.61,Income,Product Sales
+2022-06-29,9293.11,Income,Grants
+2022-06-29,6175.46,Income,Investment Return
+2022-06-30,3215.01,Expense,Marketing
+2022-06-30,590.18,Income,Product Sales
+2022-07-01,8547.1,Income,Investment Return
+2022-07-02,4970.53,Expense,Travel
+2022-07-02,289.76,Income,Product Sales
+2022-07-02,2555.49,Expense,Travel
+2022-07-03,4272.96,Income,Grants
+2022-07-03,9250.66,Income,Product Sales
+2022-07-03,7177.49,Income,Investment Return
+2022-07-04,4128.68,Expense,Utilities
+2022-07-04,9007.46,Income,Grants
+2022-07-05,1706.28,Expense,Marketing
+2022-07-05,3068.76,Income,Investment Return
+2022-07-05,9482.92,Income,Service Revenue
+2022-07-06,2644.71,Expense,Utilities
+2022-07-06,2670.47,Expense,Travel
+2022-07-06,1342.48,Expense,Travel
+2022-07-07,3128.72,Expense,Rent
+2022-07-07,4848.69,Expense,Travel
+2022-07-07,1117.41,Income,Investment Return
+2022-07-07,1822.21,Income,Grants
+2022-07-08,2897.58,Expense,Office Supplies
+2022-07-08,2155.25,Expense,Utilities
+2022-07-09,486.29,Expense,Travel
+2022-07-09,4887.14,Income,Grants
+2022-07-09,2261.55,Expense,Office Supplies
+2022-07-09,4089.61,Expense,Marketing
+2022-07-09,4231.3,Expense,Utilities
+2022-07-09,1935.97,Expense,Rent
+2022-07-10,5305.13,Income,Product Sales
+2022-07-10,2093.92,Income,Product Sales
+2022-07-11,1932.06,Expense,Salaries
+2022-07-11,3939.56,Income,Service Revenue
+2022-07-12,3877.37,Expense,Marketing
+2022-07-13,2237.46,Expense,Salaries
+2022-07-13,702.36,Expense,Utilities
+2022-07-14,1235.85,Expense,Rent
+2022-07-14,2225.9,Expense,Office Supplies
+2022-07-15,6681.7,Income,Investment Return
+2022-07-16,2610.77,Income,Product Sales
+2022-07-17,3912.53,Expense,Marketing
+2022-07-17,3560.78,Expense,Travel
+2022-07-17,4522.59,Expense,Office Supplies
+2022-07-18,2341.26,Expense,Rent
+2022-07-19,7355.49,Income,Investment Return
+2022-07-19,241.66,Expense,Marketing
+2022-07-20,8347.04,Income,Product Sales
+2022-07-20,3099.16,Income,Product Sales
+2022-07-22,8752.74,Income,Service Revenue
+2022-07-22,405.87,Expense,Utilities
+2022-07-22,1187.81,Expense,Utilities
+2022-07-22,9982.18,Income,Investment Return
+2022-07-23,4338.54,Expense,Rent
+2022-07-23,2090.99,Expense,Salaries
+2022-07-24,1801.93,Income,Service Revenue
+2022-07-24,220.64,Expense,Office Supplies
+2022-07-24,314.07,Expense,Office Supplies
+2022-07-24,1286.21,Expense,Utilities
+2022-07-24,3854.91,Income,Product Sales
+2022-07-25,725.25,Expense,Travel
+2022-07-25,2586.22,Expense,Utilities
+2022-07-25,5189.41,Income,Product Sales
+2022-07-27,4257.74,Expense,Utilities
+2022-07-27,9097.77,Income,Service Revenue
+2022-07-27,1348.52,Expense,Rent
+2022-07-28,4743.69,Income,Product Sales
+2022-07-28,1527.06,Expense,Marketing
+2022-07-28,2638.49,Income,Product Sales
+2022-07-29,2818.5,Expense,Office Supplies
+2022-07-30,1595.94,Expense,Rent
+2022-07-30,3141.32,Expense,Salaries
+2022-07-31,1965.65,Expense,Marketing
+2022-08-01,3178.97,Income,Grants
+2022-08-01,1730.02,Expense,Utilities
+2022-08-01,2812.49,Income,Investment Return
+2022-08-02,4445.96,Expense,Travel
+2022-08-03,8950.67,Income,Service Revenue
+2022-08-03,1459.88,Income,Product Sales
+2022-08-04,9393.27,Income,Grants
+2022-08-04,4641.51,Expense,Travel
+2022-08-04,3222.66,Expense,Office Supplies
+2022-08-04,4885.29,Expense,Rent
+2022-08-05,4630.0,Income,Grants
+2022-08-05,2814.22,Income,Grants
+2022-08-05,5891.85,Income,Investment Return
+2022-08-05,2647.27,Expense,Rent
+2022-08-06,2579.5,Expense,Rent
+2022-08-08,4264.02,Expense,Salaries
+2022-08-09,3392.18,Expense,Rent
+2022-08-09,1045.91,Expense,Marketing
+2022-08-09,2578.37,Income,Service Revenue
+2022-08-09,3788.66,Expense,Travel
+2022-08-11,1276.96,Expense,Marketing
+2022-08-11,8194.47,Income,Investment Return
+2022-08-12,1234.13,Expense,Office Supplies
+2022-08-12,3582.51,Expense,Utilities
+2022-08-12,3524.0,Income,Product Sales
+2022-08-12,6213.54,Income,Product Sales
+2022-08-13,4555.64,Income,Investment Return
+2022-08-13,2360.18,Expense,Rent
+2022-08-13,8457.44,Income,Grants
+2022-08-13,2056.63,Income,Grants
+2022-08-13,2477.17,Expense,Office Supplies
+2022-08-13,9321.64,Income,Product Sales
+2022-08-14,45.6,Expense,Marketing
+2022-08-14,4121.76,Expense,Utilities
+2022-08-14,4397.12,Income,Product Sales
+2022-08-14,1056.37,Expense,Office Supplies
+2022-08-14,4943.46,Income,Service Revenue
+2022-08-15,4306.78,Expense,Salaries
+2022-08-15,3830.67,Expense,Salaries
+2022-08-15,734.85,Expense,Salaries
+2022-08-15,515.44,Income,Grants
+2022-08-15,2296.16,Expense,Travel
+2022-08-15,1076.08,Income,Investment Return
+2022-08-16,7221.08,Income,Product Sales
+2022-08-16,111.01,Expense,Office Supplies
+2022-08-17,2205.38,Income,Service Revenue
+2022-08-17,2073.77,Expense,Utilities
+2022-08-18,308.11,Income,Grants
+2022-08-19,788.99,Expense,Marketing
+2022-08-19,6148.17,Income,Service Revenue
+2022-08-19,4045.81,Expense,Utilities
+2022-08-20,2618.12,Expense,Salaries
+2022-08-21,3699.87,Expense,Office Supplies
+2022-08-21,5586.46,Income,Product Sales
+2022-08-21,4447.28,Expense,Salaries
+2022-08-23,3119.43,Expense,Utilities
+2022-08-24,3050.27,Income,Product Sales
+2022-08-25,473.21,Income,Service Revenue
+2022-08-25,3580.47,Expense,Marketing
+2022-08-26,2613.99,Expense,Marketing
+2022-08-26,839.7,Expense,Marketing
+2022-08-26,409.94,Expense,Marketing
+2022-08-26,2284.92,Income,Product Sales
+2022-08-27,6287.3,Income,Investment Return
+2022-08-28,3936.8,Expense,Marketing
+2022-08-28,7754.52,Income,Investment Return
+2022-08-28,200.13,Income,Grants
+2022-08-28,5177.07,Income,Investment Return
+2022-08-29,1814.67,Expense,Travel
+2022-08-29,3275.17,Income,Grants
+2022-08-29,4723.48,Income,Service Revenue
+2022-08-30,2233.09,Expense,Salaries
+2022-08-30,4566.81,Income,Investment Return
+2022-08-30,695.07,Income,Service Revenue
+2022-08-30,4360.5,Expense,Marketing
+2022-08-31,2544.86,Expense,Salaries
+2022-08-31,1259.01,Expense,Salaries
+2022-09-01,977.88,Expense,Marketing
+2022-09-01,3806.43,Expense,Office Supplies
+2022-09-02,338.23,Expense,Rent
+2022-09-02,7012.16,Income,Grants
+2022-09-04,1729.64,Expense,Rent
+2022-09-04,8613.41,Income,Service Revenue
+2022-09-04,7951.32,Income,Grants
+2022-09-06,9537.83,Income,Investment Return
+2022-09-07,194.48,Income,Investment Return
+2022-09-07,7962.41,Income,Product Sales
+2022-09-07,644.37,Expense,Travel
+2022-09-08,2420.26,Income,Investment Return
+2022-09-08,8533.27,Income,Grants
+2022-09-08,510.14,Income,Grants
+2022-09-09,1491.2,Expense,Salaries
+2022-09-09,5025.41,Income,Grants
+2022-09-09,1340.74,Expense,Travel
+2022-09-10,1370.29,Expense,Salaries
+2022-09-10,2664.93,Expense,Salaries
+2022-09-10,2304.35,Expense,Travel
+2022-09-10,3450.28,Expense,Rent
+2022-09-10,1695.0,Expense,Travel
+2022-09-11,1744.06,Expense,Office Supplies
+2022-09-11,1787.56,Expense,Office Supplies
+2022-09-11,4399.04,Expense,Utilities
+2022-09-11,3641.8,Expense,Rent
+2022-09-12,2789.48,Income,Service Revenue
+2022-09-13,1081.76,Expense,Salaries
+2022-09-14,363.26,Expense,Rent
+2022-09-14,6249.74,Income,Product Sales
+2022-09-14,142.86,Expense,Salaries
+2022-09-15,3113.11,Expense,Office Supplies
+2022-09-15,2648.26,Expense,Rent
+2022-09-15,869.59,Expense,Rent
+2022-09-16,2600.05,Income,Investment Return
+2022-09-16,3748.52,Expense,Salaries
+2022-09-16,2283.04,Income,Product Sales
+2022-09-18,3200.59,Expense,Office Supplies
+2022-09-18,142.6,Expense,Marketing
+2022-09-19,2868.4,Income,Service Revenue
+2022-09-19,174.04,Expense,Marketing
+2022-09-19,681.98,Expense,Office Supplies
+2022-09-19,2160.63,Expense,Rent
+2022-09-19,3275.86,Expense,Salaries
+2022-09-20,963.43,Expense,Utilities
+2022-09-20,3049.75,Income,Investment Return
+2022-09-20,296.06,Expense,Marketing
+2022-09-21,1060.09,Income,Service Revenue
+2022-09-21,4780.1,Expense,Rent
+2022-09-21,593.48,Expense,Salaries
+2022-09-22,4001.95,Income,Product Sales
+2022-09-23,3228.37,Income,Investment Return
+2022-09-23,5281.73,Income,Product Sales
+2022-09-23,4880.23,Income,Investment Return
+2022-09-24,329.78,Expense,Office Supplies
+2022-09-24,4503.55,Expense,Travel
+2022-09-25,1843.24,Expense,Travel
+2022-09-25,4497.14,Expense,Rent
+2022-09-27,725.51,Income,Service Revenue
+2022-09-29,114.35,Expense,Marketing
+2022-09-29,1594.75,Expense,Salaries
+2022-09-30,665.46,Income,Service Revenue
+2022-09-30,4426.34,Expense,Marketing
+2022-10-01,553.97,Expense,Rent
+2022-10-01,2635.27,Expense,Travel
+2022-10-02,4293.53,Expense,Travel
+2022-10-03,9193.36,Income,Product Sales
+2022-10-03,4069.48,Expense,Travel
+2022-10-04,165.27,Expense,Travel
+2022-10-04,3269.33,Expense,Travel
+2022-10-04,4101.99,Income,Grants
+2022-10-05,4906.58,Expense,Salaries
+2022-10-05,393.3,Expense,Salaries
+2022-10-05,1709.36,Income,Investment Return
+2022-10-05,7971.07,Income,Service Revenue
+2022-10-05,2831.91,Expense,Marketing
+2022-10-06,3550.64,Expense,Travel
+2022-10-06,2536.72,Expense,Salaries
+2022-10-06,4462.45,Expense,Utilities
+2022-10-07,4389.0,Expense,Office Supplies
+2022-10-08,732.94,Expense,Salaries
+2022-10-09,3352.73,Income,Product Sales
+2022-10-09,1305.36,Expense,Marketing
+2022-10-09,929.53,Income,Product Sales
+2022-10-10,233.79,Income,Grants
+2022-10-10,1720.52,Expense,Office Supplies
+2022-10-10,2917.54,Income,Investment Return
+2022-10-10,4571.1,Expense,Travel
+2022-10-10,1656.28,Expense,Salaries
+2022-10-11,3783.99,Income,Investment Return
+2022-10-11,3400.86,Expense,Utilities
+2022-10-11,1905.8,Expense,Travel
+2022-10-11,744.68,Expense,Marketing
+2022-10-11,3521.93,Expense,Salaries
+2022-10-12,2809.61,Income,Grants
+2022-10-12,8415.98,Income,Grants
+2022-10-13,4284.29,Income,Product Sales
+2022-10-13,2001.84,Expense,Utilities
+2022-10-13,1382.24,Expense,Rent
+2022-10-13,396.16,Expense,Rent
+2022-10-13,3703.62,Expense,Marketing
+2022-10-14,1013.07,Expense,Rent
+2022-10-16,1573.21,Income,Service Revenue
+2022-10-16,170.71,Income,Grants
+2022-10-16,7482.6,Income,Grants
+2022-10-16,2575.61,Expense,Salaries
+2022-10-17,4106.35,Expense,Marketing
+2022-10-17,4763.03,Expense,Salaries
+2022-10-17,4315.2,Expense,Office Supplies
+2022-10-18,3661.96,Income,Product Sales
+2022-10-18,3198.99,Expense,Salaries
+2022-10-18,1093.25,Expense,Office Supplies
+2022-10-19,8669.16,Income,Grants
+2022-10-21,9533.06,Income,Product Sales
+2022-10-21,496.29,Expense,Rent
+2022-10-21,2395.23,Income,Grants
+2022-10-21,480.79,Expense,Office Supplies
+2022-10-22,4580.63,Expense,Utilities
+2022-10-23,1323.52,Expense,Office Supplies
+2022-10-23,385.13,Income,Investment Return
+2022-10-25,3942.96,Expense,Office Supplies
+2022-10-25,5800.28,Income,Product Sales
+2022-10-25,5416.71,Income,Grants
+2022-10-27,501.27,Expense,Travel
+2022-10-27,3341.34,Expense,Marketing
+2022-10-27,6945.02,Income,Product Sales
+2022-10-28,402.44,Expense,Utilities
+2022-10-28,814.51,Expense,Rent
+2022-10-28,3144.79,Expense,Utilities
+2022-10-28,3916.85,Expense,Travel
+2022-10-29,4166.02,Income,Grants
+2022-10-30,4023.22,Expense,Salaries
+2022-10-30,2166.3,Expense,Office Supplies
+2022-10-30,5103.0,Income,Grants
+2022-11-01,3019.24,Expense,Marketing
+2022-11-01,6748.72,Income,Grants
+2022-11-01,3008.57,Income,Service Revenue
+2022-11-01,4674.01,Expense,Utilities
+2022-11-01,1592.29,Expense,Marketing
+2022-11-01,6033.65,Income,Service Revenue
+2022-11-02,5401.1,Income,Grants
+2022-11-02,3648.61,Expense,Utilities
+2022-11-03,3516.74,Expense,Utilities
+2022-11-04,1510.18,Expense,Travel
+2022-11-04,790.22,Income,Investment Return
+2022-11-04,7448.71,Income,Investment Return
+2022-11-05,505.59,Expense,Salaries
+2022-11-05,1976.69,Expense,Office Supplies
+2022-11-06,3620.82,Expense,Utilities
+2022-11-06,5045.53,Income,Investment Return
+2022-11-06,1269.35,Expense,Utilities
+2022-11-06,809.07,Expense,Marketing
+2022-11-06,7119.11,Income,Investment Return
+2022-11-08,373.16,Expense,Utilities
+2022-11-08,63.71,Expense,Utilities
+2022-11-09,3870.81,Income,Service Revenue
+2022-11-09,1073.61,Income,Service Revenue
+2022-11-09,3214.19,Income,Investment Return
+2022-11-09,2836.71,Expense,Utilities
+2022-11-09,1871.2,Expense,Rent
+2022-11-10,2271.39,Expense,Salaries
+2022-11-11,2068.26,Income,Service Revenue
+2022-11-11,5764.5,Income,Product Sales
+2022-11-12,345.17,Income,Service Revenue
+2022-11-12,2211.55,Expense,Marketing
+2022-11-14,1718.01,Expense,Rent
+2022-11-14,1293.08,Expense,Rent
+2022-11-15,4619.44,Income,Investment Return
+2022-11-15,1560.88,Expense,Travel
+2022-11-15,4385.54,Expense,Office Supplies
+2022-11-16,1290.37,Expense,Marketing
+2022-11-17,2527.66,Expense,Office Supplies
+2022-11-17,7800.33,Income,Product Sales
+2022-11-18,4243.94,Expense,Marketing
+2022-11-19,3328.83,Expense,Office Supplies
+2022-11-20,5361.64,Income,Product Sales
+2022-11-22,2238.02,Expense,Salaries
+2022-11-22,2953.32,Expense,Utilities
+2022-11-22,2189.65,Expense,Marketing
+2022-11-24,6278.72,Income,Product Sales
+2022-11-25,355.51,Income,Product Sales
+2022-11-26,3663.18,Expense,Travel
+2022-11-26,1228.04,Expense,Utilities
+2022-11-28,3985.58,Expense,Salaries
+2022-11-28,9054.08,Income,Investment Return
+2022-11-28,2323.72,Expense,Utilities
+2022-11-28,4727.95,Expense,Rent
+2022-11-28,4678.42,Expense,Salaries
+2022-11-28,953.77,Expense,Travel
+2022-11-28,5116.19,Income,Service Revenue
+2022-11-28,839.81,Expense,Utilities
+2022-11-29,6838.66,Income,Investment Return
+2022-11-29,224.7,Income,Investment Return
+2022-11-29,3588.7,Expense,Salaries
+2022-11-30,1770.68,Expense,Travel
+2022-12-01,2921.78,Expense,Rent
+2022-12-01,627.0,Expense,Salaries
+2022-12-02,934.13,Income,Product Sales
+2022-12-03,2608.03,Expense,Office Supplies
+2022-12-03,3310.86,Income,Service Revenue
+2022-12-05,9382.85,Income,Product Sales
+2022-12-05,2392.83,Income,Investment Return
+2022-12-05,3258.55,Income,Service Revenue
+2022-12-05,887.3,Expense,Marketing
+2022-12-06,4599.78,Expense,Rent
+2022-12-06,2037.44,Expense,Utilities
+2022-12-06,4129.55,Expense,Salaries
+2022-12-07,244.21,Income,Service Revenue
+2022-12-08,9128.4,Income,Investment Return
+2022-12-08,2023.82,Expense,Office Supplies
+2022-12-08,4669.23,Expense,Utilities
+2022-12-10,4773.68,Expense,Travel
+2022-12-10,379.94,Expense,Office Supplies
+2022-12-12,7880.66,Income,Grants
+2022-12-12,473.88,Expense,Rent
+2022-12-12,3265.46,Income,Product Sales
+2022-12-12,2009.17,Expense,Rent
+2022-12-12,2934.78,Expense,Utilities
+2022-12-13,2007.65,Expense,Utilities
+2022-12-13,1270.4,Income,Investment Return
+2022-12-13,4084.07,Expense,Salaries
+2022-12-14,4479.12,Income,Product Sales
+2022-12-15,2853.31,Income,Grants
+2022-12-15,5857.49,Income,Service Revenue
+2022-12-16,988.43,Expense,Utilities
+2022-12-16,425.28,Income,Service Revenue
+2022-12-17,639.21,Income,Product Sales
+2022-12-17,4114.7,Expense,Rent
+2022-12-17,1882.26,Expense,Rent
+2022-12-18,3948.86,Expense,Marketing
+2022-12-18,1371.73,Expense,Utilities
+2022-12-18,3384.59,Expense,Salaries
+2022-12-19,1788.33,Income,Service Revenue
+2022-12-19,477.05,Expense,Salaries
+2022-12-19,8566.14,Income,Grants
+2022-12-21,4112.33,Expense,Office Supplies
+2022-12-22,8227.1,Income,Grants
+2022-12-22,9447.67,Income,Product Sales
+2022-12-22,1973.91,Income,Service Revenue
+2022-12-23,1548.52,Expense,Office Supplies
+2022-12-24,2510.17,Expense,Marketing
+2022-12-24,3550.32,Expense,Office Supplies
+2022-12-25,4499.97,Income,Investment Return
+2022-12-25,5041.78,Income,Product Sales
+2022-12-26,3489.84,Expense,Utilities
+2022-12-28,4064.15,Expense,Travel
+2022-12-28,2293.02,Income,Investment Return
+2022-12-28,2106.27,Expense,Rent
+2022-12-29,2670.07,Income,Service Revenue
+2022-12-29,625.59,Expense,Marketing
+2022-12-29,128.07,Expense,Travel
+2022-12-29,1042.0,Expense,Rent
+2022-12-31,2969.26,Expense,Utilities
+2022-12-31,8739.29,Income,Product Sales
+2023-01-01,4991.63,Expense,Travel
+2023-01-01,4032.99,Income,Investment Return

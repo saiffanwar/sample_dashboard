@@ -1,0 +1,31 @@
+Date,Price,Income/Expense,Category
+2023-01-02,1551.39,Income,Service Revenue
+2023-01-03,488.9,Expense,Marketing
+2023-01-03,3470.59,Expense,Rent
+2023-01-04,6999.56,Income,Product Sales
+2023-01-05,2101.37,Expense,Office Supplies
+2023-01-06,5181.93,Income,Service Revenue
+2023-01-06,4732.05,Expense,Office Supplies
+2023-01-09,3098.9,Expense,Salaries
+2023-01-10,6296.8,Income,Grants
+2023-01-10,4793.54,Expense,Utilities
+2023-01-13,4979.74,Expense,Marketing
+2023-01-14,7695.23,Income,Grants
+2023-01-15,5801.65,Income,Product Sales
+2023-01-15,4106.78,Expense,Salaries
+2023-01-16,1319.25,Expense,Rent
+2023-01-16,2492.87,Expense,Rent
+2023-01-16,1265.08,Expense,Office Supplies
+2023-01-16,2473.89,Income,Investment Return
+2023-01-16,2443.18,Income,Grants
+2023-01-19,3392.3,Expense,Salaries
+2023-01-22,3821.55,Expense,Utilities
+2023-01-22,8685.27,Income,Investment Return
+2023-01-22,4674.38,Expense,Office Supplies
+2023-01-23,4700.27,Income,Product Sales
+2023-01-25,6830.46,Income,Investment Return
+2023-01-28,8645.07,Income,Product Sales
+2023-01-28,2246.41,Income,Investment Return
+2023-01-29,9781.22,Income,Service Revenue
+2023-01-29,1223.3,Income,Service Revenue
+2023-01-29,4014.5,Expense,Marketing
